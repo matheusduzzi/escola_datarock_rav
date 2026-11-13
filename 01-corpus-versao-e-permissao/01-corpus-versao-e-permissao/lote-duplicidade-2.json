@@ -1,0 +1,35 @@
+{
+ "descricao": "Segunda tentativa do financeiro: a versão 1 termina em 30 de novembro e a versão 2 começa em 1º de dezembro.",
+ "trechos": [
+  {
+   "id": "pagamentos@1#duplicidade",
+   "documento": "pagamentos",
+   "secao": "duplicidade",
+   "versao": 1,
+   "titulo": "Cobrança em duplicidade",
+   "texto": "Se a fatura mostrar a mesma compra duas vezes, mande o número do pedido pelo atendimento. O estorno da cobrança repetida é feito pela equipe financeira.",
+   "inicio": "2026-01-01",
+   "fim": "2026-11-30",
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "pagamentos@2#duplicidade",
+   "documento": "pagamentos",
+   "secao": "duplicidade",
+   "versao": 2,
+   "titulo": "Cobrança em duplicidade",
+   "texto": "Se a fatura mostrar a mesma compra duas vezes, mande o número do pedido pelo atendimento. A equipe financeira faz o estorno da cobrança repetida em até 5 dias úteis.",
+   "inicio": "2026-12-01",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  }
+ ]
+}

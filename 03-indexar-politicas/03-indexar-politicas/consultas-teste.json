@@ -1,0 +1,31 @@
+{
+ "descricao": "Consultas de teste do índice das políticas. Cada uma diz quem pergunta, em que dia, o trecho que precisa vir em 1º e os trechos que não podem aparecer entre os k primeiros.",
+ "consultas": [
+  {
+   "id": "T1",
+   "pergunta": "Quantos dias eu tenho para trocar?",
+   "perfil": "cliente",
+   "data": "2026-11-13",
+   "k": 3,
+   "primeiro": "trocas@2#prazo",
+   "nao_pode": ["trocas@1#prazo", "trocas@3#prazo", "excecoes@1#troca-fora-do-prazo"]
+  },
+  {
+   "id": "T2",
+   "pergunta": "Quantos dias eu tenho para trocar?",
+   "perfil": "cliente",
+   "data": "2026-09-20",
+   "k": 3,
+   "primeiro": "trocas@1#prazo",
+   "nao_pode": ["trocas@2#prazo", "trocas@3#prazo"]
+  },
+  {
+   "id": "T3",
+   "pergunta": "Quem aprova um estorno manual acima de R$ 500?",
+   "perfil": "cliente",
+   "data": "2026-11-13",
+   "k": 3,
+   "nao_pode": ["financeiro@1#estorno-manual"]
+  }
+ ]
+}

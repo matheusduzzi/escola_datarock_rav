@@ -1,0 +1,35 @@
+{
+ "descricao": "Versão certa do pedido do financeiro: o fim da versão 1 é o início da versão 2.",
+ "trechos": [
+  {
+   "id": "pagamentos@1#duplicidade",
+   "documento": "pagamentos",
+   "secao": "duplicidade",
+   "versao": 1,
+   "titulo": "Cobrança em duplicidade",
+   "texto": "Se a fatura mostrar a mesma compra duas vezes, mande o número do pedido pelo atendimento. O estorno da cobrança repetida é feito pela equipe financeira.",
+   "inicio": "2026-01-01",
+   "fim": "2026-12-01",
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "pagamentos@2#duplicidade",
+   "documento": "pagamentos",
+   "secao": "duplicidade",
+   "versao": 2,
+   "titulo": "Cobrança em duplicidade",
+   "texto": "Se a fatura mostrar a mesma compra duas vezes, mande o número do pedido pelo atendimento. A equipe financeira faz o estorno da cobrança repetida em até 5 dias úteis.",
+   "inicio": "2026-12-01",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  }
+ ]
+}

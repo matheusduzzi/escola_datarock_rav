@@ -1,0 +1,61 @@
+abordagem,id,motivo,tokens_entrada,tokens_saida,exemplos
+medio,A01,entrega,674,4,A01 A54 R063 R089 R027
+medio,A02,entrega,685,4,A02 R114 R084 R151 R073
+medio,A03,defeito,702,4,A03 R087 R088 R112 R126
+medio,A04,sem_problema,611,4,A04 R116 R101
+medio,A05,defeito,674,4,A05 A48 A13 R121 R123
+medio,A06,defeito,647,4,A06 A27 A50 R091 R053
+medio,A07,tamanho,673,4,A07 R035 R108 R026 R092
+medio,A08,atendimento,667,4,A08 R138 A15 R084 A19
+medio,A09,entrega,692,4,A09 R039 R093 R008 A42
+medio,A10,entrega,668,4,A10 R063 R085 R089 A54
+medio,A11,tamanho,629,4,A11 A60 R082
+medio,A12,atendimento,677,4,A12 R007 R104 R027 R009
+medio,A13,sem_problema,661,4,A13 A48 A05 A26 R110
+medio,A14,defeito,695,4,A14 R061 R052 R023 R034
+medio,A15,entrega,663,4,A15 A47 A08 R073 R067
+medio,A16,defeito,667,4,A16 R142 A17 R130 R030
+medio,A17,diferente,670,4,A17 R130 A16 R030 A25
+medio,A18,diferente,585,4,A18
+medio,A19,atendimento,668,4,A19 R069 R130 R074 R059
+medio,A20,sem_problema,644,4,A20 R131 A29 R094 R105
+medio,A21,defeito,654,4,A21 A15 A54 A08 R114
+medio,A22,tamanho,633,4,A22 A57 R126
+medio,A23,defeito,686,4,A23 R087 R088 R112 R126
+medio,A24,defeito,679,4,A24 R101 R018 R059 R150
+medio,A25,sem_problema,665,4,A25 R026 A23 R050 R077
+medio,A26,defeito,670,4,A26 R013 R151 A13 A03
+medio,A27,entrega,652,4,A27 A06 R063 R022 A24
+medio,A28,tamanho,664,4,A28 A51 R104 R006 R015
+medio,A29,tamanho,652,4,A29 R131 R094 R105 R088
+medio,A30,diferente,675,4,A30 R054 R149 R121 R148
+medio,A31,diferente,654,4,A31 R010 A51 R044 R019
+medio,A32,entrega,651,4,A32 A46 R070 A58 R054
+medio,A33,diferente,662,4,A33 R079 R028 R024 R107
+medio,A34,atendimento,678,4,A34 R011 R037 R018 R047
+medio,A35,diferente,653,4,A35 R100 R140 R097
+medio,A36,atendimento,664,4,A36 A59 R056 R122 R113
+medio,A37,atendimento,690,4,A37 R145 R150 R083 R120
+medio,A38,defeito,655,4,A38 A47 R122 R113 R028
+medio,A39,sem_problema,650,4,A39 R021 R131 R038 R094
+medio,A40,diferente,677,4,A40 R052 R017 R117 R111
+medio,A41,defeito,690,4,A41 A03 R145 R150 R083
+medio,A42,tamanho,625,4,A42 R001 A09
+medio,A43,tamanho,671,4,A43 R035 R108 R026 A32
+medio,A44,sem_problema,617,4,A44 R111 R072
+medio,A45,sem_problema,664,4,A45 R004 R006 A03 R127
+medio,A46,sem_problema,635,4,A46 A32 A58 R119 R131
+medio,A47,diferente,658,4,A47 A15 R054 R149 A38
+medio,A48,tamanho,663,4,A48 A05 A13 R139 R113
+medio,A49,tamanho,675,4,A49 R090 R096 R147 R034
+medio,A50,atendimento,660,4,A50 A06 R110 R102 R130
+medio,A51,diferente,661,4,A51 A28 R010 A56 R044
+medio,A52,sem_problema,679,4,A52 R118 R063 R147 R073
+medio,A53,defeito,687,4,A53 R002 R019 R033 R012
+medio,A54,entrega,663,4,A54 R063 R027 R072 A01
+medio,A55,tamanho,670,4,A55 A48 R005 A37 R139
+medio,A56,entrega,696,4,A56 R015 R023 R086 R117
+medio,A57,tamanho,677,4,A57 A22 R034 R084 R126
+medio,A58,sem_problema,662,4,A58 A46 A32 A01 A37
+medio,A59,entrega,703,4,A59 R012 R115 R118 R137
+medio,A60,tamanho,652,4,A60 R131 R082 R046 R094

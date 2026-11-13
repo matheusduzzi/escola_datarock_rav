@@ -1,0 +1,116 @@
+{
+ "descricao": "Mudanças de dezembro de 2026 que a coordenadora do atendimento juntou num lote só, como chegaram de cada área.",
+ "pedidos": [
+  "P1. Diretoria: o prazo de troca de 40 dias foi aprovado e vale a partir de 1º de dezembro.",
+  "P2. Comercial: o frete grátis passa a valer acima de R$ 249,00 a partir de 15 de dezembro. A regra antiga vale até 14 de dezembro.",
+  "P3. Supervisão: a exceção de troca fora do prazo sobe de 60 para 90 dias a partir de 1º de dezembro.",
+  "P4. Pagamentos: o parcelamento sem juros vai para até 10 vezes a partir de 1º de dezembro.",
+  "P5. Operações: a loja passa a ter retirada nas lojas físicas a partir de 1º de dezembro. O texto veio pronto da equipe de operações."
+ ],
+ "trechos": [
+  {
+   "id": "trocas@3#prazo",
+   "documento": "trocas",
+   "secao": "prazo",
+   "versao": 3,
+   "titulo": "Prazo para troca",
+   "texto": "Você tem 40 dias corridos, contados da entrega, para pedir a troca de um produto sem defeito.",
+   "inicio": "2026-12-01",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "entregas@1#frete",
+   "documento": "entregas",
+   "secao": "frete",
+   "versao": 1,
+   "titulo": "Frete grátis",
+   "texto": "O frete é grátis para compras acima de R$ 199,00 nas capitais e regiões metropolitanas atendidas. Abaixo desse valor, o frete é calculado no carrinho pelo CEP.",
+   "inicio": "2026-01-01",
+   "fim": "2026-12-14",
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "entregas@2#frete",
+   "documento": "entregas",
+   "secao": "frete",
+   "versao": 2,
+   "titulo": "Frete grátis",
+   "texto": "O frete é grátis para compras acima de R$ 249,00 nas capitais e regiões metropolitanas atendidas. Abaixo desse valor, o frete é calculado no carrinho pelo CEP.",
+   "inicio": "2026-12-15",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "excecoes@1#troca-fora-do-prazo",
+   "documento": "excecoes",
+   "secao": "troca-fora-do-prazo",
+   "versao": 1,
+   "titulo": "Troca fora do prazo",
+   "texto": "A supervisão pode aceitar uma troca em até 60 dias corridos da entrega, caso a caso. O atendimento não oferece essa exceção ao cliente.",
+   "inicio": "2026-01-01",
+   "fim": "2026-12-01",
+   "perfis": [
+    "supervisao"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "excecoes@2#troca-fora-do-prazo",
+   "documento": "excecoes",
+   "secao": "troca-fora-do-prazo",
+   "versao": 2,
+   "titulo": "Troca fora do prazo",
+   "texto": "A supervisão pode aceitar uma troca em até 90 dias corridos da entrega, caso a caso. O atendimento não oferece essa exceção ao cliente.",
+   "inicio": "2026-12-01",
+   "fim": null,
+   "perfis": [
+    "supervisao",
+    "cliente"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "pagamentos@1#parcelamento",
+   "documento": "pagamentos",
+   "secao": "parcelamento",
+   "versao": 1,
+   "titulo": "Parcelamento no cartão",
+   "texto": "Compras no cartão de crédito podem ser parceladas em até 10 vezes sem juros, com parcela mínima de R$ 30,00.",
+   "inicio": "2026-01-01",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  },
+  {
+   "id": "retirada@1#loja",
+   "documento": "retirada",
+   "secao": "loja",
+   "versao": 1,
+   "titulo": "Retirada na loja",
+   "texto": "O pedido pode ser retirado numa loja física em até 3 dias úteis depois da confirmação do pagamento, com um documento com foto. As lojas abrem de segunda a sábado, das 10h às 22h. Produto comprado pela internet também pode ser trocado na loja física, dentro do prazo de troca.",
+   "inicio": "2026-12-01",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  }
+ ]
+}

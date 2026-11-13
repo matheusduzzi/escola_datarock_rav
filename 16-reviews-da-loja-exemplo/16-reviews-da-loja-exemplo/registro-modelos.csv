@@ -1,0 +1,241 @@
+abordagem,id,motivo,tokens_entrada,tokens_saida,exemplos
+guia,A01,entrega,581,4,
+guia-exemplos,A01,entrega,820,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A01,entrega,674,4,R063 R089 R027 R072 R114
+ajuste,A01,entrega,28,4,
+guia,A02,entrega,574,4,
+guia-exemplos,A02,entrega,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A02,entrega,694,4,R114 R084 R151 R073 R045
+ajuste,A02,entrega,21,4,
+guia,A03,defeito,580,4,
+guia-exemplos,A03,defeito,819,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A03,defeito,696,4,R087 R088 R112 R126 R054
+ajuste,A03,defeito,27,4,
+guia,A04,sem_problema,571,4,
+guia-exemplos,A04,sem_problema,810,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A04,sem_problema,597,4,R116 R101
+ajuste,A04,sem_problema,18,4,
+guia,A05,defeito,573,4,
+guia-exemplos,A05,defeito,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A05,defeito,690,4,R121 R123 R043 R113 R028
+ajuste,A05,defeito,20,4,
+guia,A06,defeito,573,4,
+guia-exemplos,A06,defeito,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A06,defeito,663,4,R091 R053 R078 R041 R063
+ajuste,A06,defeito,20,4,
+guia,A07,tamanho,577,4,
+guia-exemplos,A07,tamanho,816,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A07,tamanho,676,4,R035 R108 R026 R084 R092
+ajuste,A07,tamanho,24,4,
+guia,A08,atendimento,572,4,
+guia-exemplos,A08,atendimento,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A08,atendimento,674,4,R138 R084 R114 R079 R151
+ajuste,A08,atendimento,19,4,
+guia,A09,entrega,579,4,
+guia-exemplos,A09,entrega,818,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A09,entrega,691,4,R039 R093 R008 R129 R049
+ajuste,A09,entrega,26,4,
+guia,A10,diferente,576,4,
+guia-exemplos,A10,diferente,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A10,entrega,679,4,R063 R085 R089 R055 R027
+ajuste,A10,entrega,23,4,
+guia,A11,tamanho,575,4,
+guia-exemplos,A11,tamanho,814,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A11,tamanho,592,4,R082
+ajuste,A11,tamanho,22,4,
+guia,A12,atendimento,576,4,
+guia-exemplos,A12,atendimento,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A12,atendimento,682,4,R007 R104 R027 R009 R124
+ajuste,A12,atendimento,23,4,
+guia,A13,sem_problema,574,4,
+guia-exemplos,A13,sem_problema,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A13,defeito,680,4,R110 R113 R036 R121 R028
+ajuste,A13,sem_problema,21,4,
+guia,A14,diferente,578,4,
+guia-exemplos,A14,diferente,817,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A14,defeito,684,4,R061 R052 R023 R034 R079
+ajuste,A14,defeito,25,4,
+guia,A15,entrega,571,4,
+guia-exemplos,A15,entrega,810,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A15,entrega,682,4,R073 R067 R129 R138 R128
+ajuste,A15,entrega,18,4,
+guia,A16,defeito,577,4,
+guia-exemplos,A16,defeito,816,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A16,defeito,679,4,R142 R130 R030 R134 R109
+ajuste,A16,defeito,24,4,
+guia,A17,diferente,576,4,
+guia-exemplos,A17,diferente,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A17,diferente,676,4,R130 R030 R134 R054 R149
+ajuste,A17,diferente,23,4,
+guia,A18,diferente,571,4,
+guia-exemplos,A18,diferente,810,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A18,diferente,571,4,
+ajuste,A18,diferente,18,4,
+guia,A19,atendimento,574,4,
+guia-exemplos,A19,atendimento,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A19,atendimento,676,4,R069 R130 R074 R059 R078
+ajuste,A19,atendimento,21,4,
+guia,A20,sem_problema,573,4,
+guia-exemplos,A20,sem_problema,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A20,sem_problema,631,4,R131 R094 R105 R145
+ajuste,A20,sem_problema,20,4,
+guia,A21,defeito,574,4,
+guia-exemplos,A21,defeito,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A21,defeito,668,4,R114 R084 R151 R073
+ajuste,A21,defeito,21,4,
+guia,A22,sem_problema,573,4,
+guia-exemplos,A22,sem_problema,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A22,sem_problema,602,4,R126
+ajuste,A22,tamanho,20,4,
+guia,A23,defeito,572,4,
+guia-exemplos,A23,defeito,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A23,defeito,681,4,R087 R088 R112 R126 R014
+ajuste,A23,defeito,19,4,
+guia,A24,entrega,576,4,
+guia-exemplos,A24,defeito,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A24,defeito,686,4,R101 R018 R059 R150 R045
+ajuste,A24,defeito,23,4,
+guia,A25,sem_problema,573,4,
+guia-exemplos,A25,sem_problema,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A25,sem_problema,672,4,R026 R002 R019 R050 R077
+ajuste,A25,sem_problema,20,4,
+guia,A26,defeito,574,4,
+guia-exemplos,A26,defeito,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A26,defeito,666,4,R013 R151 R004 R006 R021
+ajuste,A26,defeito,21,4,
+guia,A27,entrega,573,4,
+guia-exemplos,A27,entrega,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A27,entrega,658,4,R063 R022 R125 R027 R072
+ajuste,A27,entrega,20,4,
+guia,A28,diferente,575,4,
+guia-exemplos,A28,diferente,814,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A28,diferente,668,4,R104 R006 R015 R016 R037
+ajuste,A28,diferente,22,4,
+guia,A29,tamanho,572,4,
+guia-exemplos,A29,tamanho,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A29,tamanho,655,4,R131 R094 R105 R088 R145
+ajuste,A29,tamanho,19,4,
+guia,A30,diferente,574,4,
+guia-exemplos,A30,diferente,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A30,diferente,683,4,R054 R149 R121 R148 R083
+ajuste,A30,diferente,21,4,
+guia,A31,diferente,571,4,
+guia-exemplos,A31,diferente,810,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A31,diferente,671,4,R010 R044 R019 R099 R133
+ajuste,A31,diferente,18,4,
+guia,A32,entrega,574,4,
+guia-exemplos,A32,entrega,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A32,entrega,655,4,R054 R080 R070 R002 R063
+ajuste,A32,entrega,21,4,
+guia,A33,diferente,571,4,
+guia-exemplos,A33,diferente,810,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A33,diferente,670,4,R079 R028 R024 R107 R034
+ajuste,A33,diferente,18,4,
+guia,A34,atendimento,578,4,
+guia-exemplos,A34,atendimento,817,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A34,atendimento,678,4,R011 R037 R018 R047 R103
+ajuste,A34,atendimento,25,4,
+guia,A35,diferente,572,4,
+guia-exemplos,A35,defeito,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A35,diferente,638,4,R100 R140 R097
+ajuste,A35,defeito,19,4,
+guia,A36,atendimento,575,4,
+guia-exemplos,A36,atendimento,814,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A36,atendimento,670,4,R056 R122 R113 R028 R047
+ajuste,A36,sem_problema,22,4,
+guia,A37,atendimento,578,4,
+guia-exemplos,A37,atendimento,817,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A37,atendimento,698,4,R145 R150 R083 R120 R008
+ajuste,A37,atendimento,25,4,
+guia,A38,defeito,573,4,
+guia-exemplos,A38,defeito,812,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A38,defeito,665,4,R122 R113 R028 R047 R057
+ajuste,A38,defeito,20,4,
+guia,A39,sem_problema,572,4,
+guia-exemplos,A39,sem_problema,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A39,sem_problema,652,4,R021 R038 R131 R094 R054
+ajuste,A39,sem_problema,19,4,
+guia,A40,diferente,576,4,
+guia-exemplos,A40,diferente,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A40,diferente,679,4,R017 R052 R117 R111 R051
+ajuste,A40,diferente,23,4,
+guia,A41,defeito,580,4,
+guia-exemplos,A41,defeito,819,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A41,defeito,700,4,R145 R150 R083 R120 R008
+ajuste,A41,defeito,27,4,
+guia,A42,tamanho,572,4,
+guia-exemplos,A42,tamanho,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A42,tamanho,588,4,R001
+ajuste,A42,tamanho,19,4,
+guia,A43,tamanho,576,4,
+guia-exemplos,A43,tamanho,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A43,tamanho,670,4,R035 R108 R026 R054 R080
+ajuste,A43,tamanho,23,4,
+guia,A44,sem_problema,569,4,
+guia-exemplos,A44,sem_problema,808,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A44,sem_problema,605,4,R111 R072
+ajuste,A44,sem_problema,16,4,
+guia,A45,sem_problema,570,4,
+guia-exemplos,A45,sem_problema,809,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A45,sem_problema,628,4,R004 R006 R127
+ajuste,A45,sem_problema,17,4,
+guia,A46,sem_problema,570,4,
+guia-exemplos,A46,sem_problema,809,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A46,tamanho,637,4,R119 R131 R046 R090 R094
+ajuste,A46,sem_problema,17,4,
+guia,A47,entrega,575,4,
+guia-exemplos,A47,diferente,814,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A47,diferente,684,4,R054 R149 R121 R148 R083
+ajuste,A47,diferente,22,4,
+guia,A48,tamanho,574,4,
+guia-exemplos,A48,tamanho,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A48,tamanho,679,4,R139 R113 R028 R064 R059
+ajuste,A48,tamanho,21,4,
+guia,A49,sem_problema,574,4,
+guia-exemplos,A49,sem_problema,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A49,tamanho,682,4,R090 R147 R096 R034 R056
+ajuste,A49,tamanho,21,4,
+guia,A50,atendimento,572,4,
+guia-exemplos,A50,atendimento,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A50,atendimento,663,4,R110 R102 R130 R017 R152
+ajuste,A50,atendimento,19,4,
+guia,A51,tamanho,575,4,
+guia-exemplos,A51,diferente,814,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A51,diferente,675,4,R010 R044 R019 R099 R133
+ajuste,A51,diferente,22,4,
+guia,A52,sem_problema,570,4,
+guia-exemplos,A52,sem_problema,809,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A52,entrega,685,4,R118 R063 R147 R073 R027
+ajuste,A52,sem_problema,17,4,
+guia,A53,defeito,579,4,
+guia-exemplos,A53,defeito,818,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A53,defeito,692,4,R002 R019 R033 R012 R137
+ajuste,A53,defeito,26,4,
+guia,A54,entrega,572,4,
+guia-exemplos,A54,entrega,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A54,sem_problema,669,4,R063 R027 R072 R085 R089
+ajuste,A54,sem_problema,19,4,
+guia,A55,tamanho,574,4,
+guia-exemplos,A55,tamanho,813,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A55,tamanho,667,4,R005 R139 R084 R020 R025
+ajuste,A55,tamanho,21,4,
+guia,A56,entrega,576,4,
+guia-exemplos,A56,entrega,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A56,entrega,711,4,R015 R023 R086 R117 R065
+ajuste,A56,entrega,23,4,
+guia,A57,tamanho,572,4,
+guia-exemplos,A57,tamanho,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A57,tamanho,677,4,R034 R084 R126 R079 R139
+ajuste,A57,tamanho,19,4,
+guia,A58,sem_problema,572,4,
+guia-exemplos,A58,sem_problema,811,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A58,sem_problema,572,4,
+ajuste,A58,sem_problema,19,4,
+guia,A59,entrega,576,4,
+guia-exemplos,A59,entrega,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A59,entrega,708,4,R012 R115 R137 R118 R056
+ajuste,A59,entrega,23,4,
+guia,A60,tamanho,576,4,
+guia-exemplos,A60,tamanho,815,4,R003 R004 R001 R005 R002 R008 R017 R019 R018 R036 R020 R021
+recuperados,A60,tamanho,652,4,R082 R131 R046 R094 R100
+ajuste,A60,tamanho,23,4,

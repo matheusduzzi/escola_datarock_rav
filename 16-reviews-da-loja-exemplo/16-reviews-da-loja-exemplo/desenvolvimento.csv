@@ -1,0 +1,30 @@
+id,produto,nota,texto,motivo
+D01,garrafa térmica,2,Comprei para presente. A entrega demorou demais.,entrega
+D02,camiseta básica,2,Comprei a camiseta básica. A costura abriu depois de um uso. Gostei do acabamento.,defeito
+D03,calça jeans,2,Comprei para presente. O pedido foi entregue na casa do vizinho. O anúncio dizia algodão e veio sintético.,diferente
+D04,garrafa térmica,1,Segunda compra na loja. Chegou com uma trinca.,defeito
+D05,fone de ouvido,5,"Recebi o fone de ouvido ontem. Bom acabamento, vale o preço.",sem_problema
+D06,luminária de mesa,1,Segunda compra na loja. O rastreio ficou parado vários dias.,entrega
+D07,jaqueta corta-vento,3,A entrega demorou demais.,entrega
+D08,camiseta básica,2,Comprei a camiseta básica. As mangas ficaram longas. A estampa é outra.,diferente
+D09,jogo de lençol,2,O chat não resolveu nada. Veio com defeito.,defeito
+D10,camiseta básica,2,Comprei a camiseta básica. Muito apertado na cintura.,tamanho
+D11,calça jeans,2,Muito apertado na cintura.,tamanho
+D12,camiseta básica,2,Recebi a camiseta básica ontem. As mangas ficaram longas. A embalagem veio caprichada.,tamanho
+D13,garrafa térmica,1,Comprei a garrafa térmica. Veio com um arranhão.,defeito
+D14,calça jeans,2,Comprei a calça jeans. Veio sem o acessório do anúncio. O tecido é bom.,diferente
+D15,fone de ouvido,4,Comprei o fone de ouvido. Superou o que eu esperava. A embalagem veio caprichada.,sem_problema
+D16,tênis de corrida,2,O cadarço desfiou em uma semana.,defeito
+D17,vestido midi,2,Recebi o vestido midi ontem. Parece um número abaixo do que pedi. A estampa é outra.,diferente
+D18,garrafa térmica,2,Veio em outra cor. O preço é justo.,diferente
+D19,mochila,3,Comprei a mochila. Pedi azul e veio cinza. O preço é justo.,diferente
+D20,luminária de mesa,2,Mandei e-mail e só veio resposta automática. O pedido foi entregue na casa do vizinho.,entrega
+D21,fone de ouvido,2,Comprei para presente. Veio sem o acessório do anúncio. A embalagem veio caprichada.,diferente
+D22,mochila,2,A alça soltou logo no começo. A embalagem veio caprichada.,defeito
+D23,tênis de corrida,4,Ótima qualidade pelo preço.,sem_problema
+D24,vestido midi,1,Comprei o vestido midi. Veio com defeito. A tabela de medidas não bate com a peça.,defeito
+D25,camiseta básica,2,Comprei a camiseta básica. A tabela de medidas não bate com a peça.,tamanho
+D26,mochila,2,Comprei para presente. O material não é o do anúncio.,diferente
+D27,fone de ouvido,4,"Comprei o fone de ouvido. Bom acabamento, vale o preço.",sem_problema
+D28,camiseta básica,2,Recebi a camiseta básica ontem. Me passaram de um atendente para outro.,atendimento
+D29,luminária de mesa,2,Segunda compra na loja. Atrasou mais de uma semana. Parou de funcionar em poucos dias.,defeito

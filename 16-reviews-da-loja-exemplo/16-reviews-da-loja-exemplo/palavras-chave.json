@@ -1,0 +1,62 @@
+{
+ "sobre": "Regra que o TI montou em 2025 para a planilha semanal de avaliações. O primeiro motivo da lista com uma palavra no texto ganha. Sem nenhuma palavra, a avaliação fica como sem problema.",
+ "ordem": [
+  {
+   "motivo": "entrega",
+   "termos": [
+    "entrega",
+    "atras",
+    "transportadora",
+    "correio",
+    "demor"
+   ]
+  },
+  {
+   "motivo": "defeito",
+   "termos": [
+    "defeito",
+    "quebr",
+    "rasg",
+    "furo",
+    "costur",
+    "solt",
+    "manch",
+    "parou de funcionar",
+    "nao funciona",
+    "nao acende"
+   ]
+  },
+  {
+   "motivo": "diferente",
+   "termos": [
+    "diferente",
+    "foto",
+    "cor errada"
+   ]
+  },
+  {
+   "motivo": "tamanho",
+   "termos": [
+    "tamanho",
+    "pequen",
+    "grande",
+    "apertad",
+    "folgad",
+    "larg",
+    "curt",
+    "numeracao"
+   ]
+  },
+  {
+   "motivo": "atendimento",
+   "termos": [
+    "atendimento",
+    "atendente",
+    "sac",
+    "chat",
+    "ninguem respond"
+   ]
+  }
+ ],
+ "sem_palavra": "sem_problema"
+}

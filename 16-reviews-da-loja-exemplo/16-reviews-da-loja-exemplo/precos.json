@@ -1,0 +1,24 @@
+{
+ "aviso": "Preços inventados para o curso, em reais. Preço real muda: leia na página do provedor e anote a data.",
+ "modelos": {
+  "grande": {
+   "entrada_por_milhao": 15.0,
+   "saida_por_milhao": 75.0
+  },
+  "pequeno": {
+   "entrada_por_milhao": 1.5,
+   "saida_por_milhao": 7.5
+  },
+  "pequeno-ajustado": {
+   "entrada_por_milhao": 3.0,
+   "saida_por_milhao": 12.0
+  },
+  "medio": {
+   "entrada_por_milhao": 4.0,
+   "saida_por_milhao": 20.0
+  }
+ },
+ "hora_de_rotular": 60.0,
+ "rotuladas_por_hora": 40,
+ "treino_por_milhao_tokens": 30.0
+}

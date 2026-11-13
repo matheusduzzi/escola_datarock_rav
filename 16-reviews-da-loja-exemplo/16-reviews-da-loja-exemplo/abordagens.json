@@ -1,0 +1,44 @@
+{
+ "palavras": {
+  "o_que_e": "a regra de palavras-chave de hoje (palavras-chave.json)",
+  "modelo": null,
+  "fixo_mes": 0,
+  "rotular": 0,
+  "treino_tokens": 0
+ },
+ "guia": {
+  "o_que_e": "o guia de motivos no pedido, sem exemplos",
+  "modelo": "grande",
+  "fixo_mes": 0,
+  "rotular": 0,
+  "treino_tokens": 0
+ },
+ "guia-exemplos": {
+  "o_que_e": "o guia e os mesmos 12 exemplos rotulados em todo pedido",
+  "modelo": "grande",
+  "fixo_mes": 0,
+  "rotular": 12,
+  "treino_tokens": 0
+ },
+ "recuperados": {
+  "o_que_e": "o guia e as 5 rotuladas mais parecidas com a avaliação (busca BM25)",
+  "modelo": "pequeno",
+  "fixo_mes": 0,
+  "rotular": 153,
+  "treino_tokens": 0
+ },
+ "ajuste": {
+  "o_que_e": "o modelo pequeno ajustado com as 153 rotuladas (3 épocas), com uma instrução curta",
+  "modelo": "pequeno-ajustado",
+  "fixo_mes": 40.0,
+  "rotular": 153,
+  "treino_tokens": 13065
+ },
+ "medio": {
+  "o_que_e": "proposta do fornecedor: o guia e 5 exemplos buscados, no modelo médio",
+  "modelo": "medio",
+  "fixo_mes": 0,
+  "rotular": 153,
+  "treino_tokens": 0
+ }
+}

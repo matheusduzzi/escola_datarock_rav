@@ -1,0 +1,154 @@
+id,produto,nota,texto,motivo
+R001,camiseta básica,3,As mangas ficaram longas. Gostei do acabamento.,tamanho
+R002,garrafa térmica,2,O correio levou duas semanas. O reembolso está atrasado.,entrega
+R003,garrafa térmica,2,Comprei a garrafa térmica. Veio sem o acessório do anúncio. Chegou com uma trinca.,defeito
+R004,vestido midi,1,Comprei para presente. O zíper quebrou no segundo dia.,defeito
+R005,tênis de corrida,3,Segunda compra na loja. Aperta os dedos. Gostei do acabamento.,tamanho
+R006,calça jeans,1,O zíper quebrou no segundo dia. O tecido é bom.,defeito
+R007,garrafa térmica,1,Veio com um arranhão. Me passaram de um atendente para outro.,defeito
+R008,calça jeans,1,Segunda compra na loja. O pedido foi entregue na casa do vizinho. Fiquei uma hora esperando no SAC.,entrega
+R009,calça jeans,2,Segunda compra na loja. Chegou com uma mancha que não sai. O chat não resolveu nada.,defeito
+R010,calça jeans,3,Veio sem o acessório do anúncio.,diferente
+R011,tênis de corrida,1,Mandei e-mail e só veio resposta automática.,atendimento
+R012,jogo de lençol,2,Segunda compra na loja. Paguei frete rápido e chegou no prazo normal.,entrega
+R013,garrafa térmica,1,Segunda compra na loja. O zíper emperrou.,defeito
+R014,camiseta básica,1,Rasgou perto do bolso.,defeito
+R015,jogo de lençol,1,A transportadora deixou no endereço errado. O tecido é bom.,entrega
+R016,calça jeans,4,Segunda compra na loja. Muito apertado na cintura. O tecido é bom.,tamanho
+R017,camiseta básica,3,Veio outro modelo. O reembolso está atrasado.,diferente
+R018,tênis de corrida,1,Comprei o tênis de corrida. Mandei e-mail e só veio resposta automática.,atendimento
+R019,mochila,2,O correio levou duas semanas. Veio sem o acessório do anúncio.,diferente
+R020,luminária de mesa,4,Comprei para presente. Gostei muito.,sem_problema
+R021,calça jeans,4,"Comprei para presente. Muito confortável, uso toda semana.",sem_problema
+R022,mochila,4,Chegou certinho e é bonito. O preço é justo.,sem_problema
+R023,jogo de lençol,1,Comprei para presente. A transportadora deixou no endereço errado. Rasgou na primeira lavagem.,defeito
+R024,jogo de lençol,3,Comprei para presente. Pedi azul e veio cinza. O reembolso está atrasado.,diferente
+R025,luminária de mesa,4,Comprei a luminária de mesa. Funciona muito bem.,sem_problema
+R026,camiseta básica,3,"Ficou pequeno, peça um número acima. Na foto parecia mais grosso.",diferente
+R027,fone de ouvido,1,O chat não resolveu nada. Chegou depois do prazo prometido.,entrega
+R028,calça jeans,1,Comprei para presente. Pedi azul e veio cinza. Veio com defeito.,defeito
+R029,garrafa térmica,5,Recebi a garrafa térmica ontem. Prático e resistente.,sem_problema
+R030,tênis de corrida,3,Demorou quase um mês para chegar. Ficou largo no calcanhar.,tamanho
+R031,jogo de lençol,2,Segunda compra na loja. O elástico não alcança os cantos do colchão. O tecido é bom.,tamanho
+R032,fone de ouvido,5,Segunda compra na loja. Já é o segundo que compro.,sem_problema
+R033,luminária de mesa,2,Recebi a luminária de mesa ontem. O correio levou duas semanas. Veio com um arranhão.,defeito
+R034,vestido midi,2,Comprei para presente. Ficou folgado nos ombros. Pedi azul e veio cinza.,diferente
+R035,calça jeans,2,"Ficou pequeno, peça um número acima. Veio com um arranhão.",defeito
+R036,camiseta básica,1,Recebi a camiseta básica ontem. O estorno não caiu até hoje. O tecido é bom.,atendimento
+R037,jaqueta corta-vento,3,Mandei e-mail e só veio resposta automática. O tecido é bom.,atendimento
+R038,camiseta básica,4,"Comprei a camiseta básica. Muito confortável, uso toda semana.",sem_problema
+R039,calça jeans,3,Comprei para presente. O pedido foi entregue na casa do vizinho.,entrega
+R040,camiseta básica,5,Recebi a camiseta básica ontem. Gostei muito.,sem_problema
+R041,mochila,1,Recebi a mochila ontem. A tampa vaza quando eu viro. A embalagem veio caprichada.,defeito
+R042,luminária de mesa,4,Já é o segundo que compro.,sem_problema
+R043,luminária de mesa,1,Recebi a luminária de mesa ontem. Fiquei uma hora esperando no SAC. Não liga de jeito nenhum.,defeito
+R044,fone de ouvido,3,Comprei o fone de ouvido. Veio sem o acessório do anúncio.,diferente
+R045,tênis de corrida,1,Comprei o tênis de corrida. O cadarço desfiou em uma semana. Ficou largo no calcanhar.,defeito
+R046,jaqueta corta-vento,3,Comprei para presente. Ficou largo nos braços.,tamanho
+R047,mochila,2,Mandei e-mail e só veio resposta automática. A embalagem veio caprichada.,atendimento
+R048,mochila,3,Recebi a mochila ontem. Veio sem o acessório do anúncio. O preço é justo.,diferente
+R049,calça jeans,2,Comprei para presente. A estampa é outra. Rasgou perto do bolso.,defeito
+R050,camiseta básica,2,Comprei para presente. Rasgou perto do bolso. O tecido é bom.,defeito
+R051,jogo de lençol,3,Recebi o jogo de lençol ontem. Veio outro modelo. O tecido é bom.,diferente
+R052,jogo de lençol,2,Comprei o jogo de lençol. Veio outro modelo. Desbotou na primeira lavagem.,defeito
+R053,mochila,2,A tampa vaza quando eu viro. O preço é justo.,defeito
+R054,camiseta básica,3,A entrega demorou demais. A cor é diferente da foto.,diferente
+R055,tênis de corrida,3,Segunda compra na loja. Chegou depois do prazo prometido. A embalagem veio caprichada.,entrega
+R056,mochila,5,Recebi a mochila ontem. Ótima qualidade pelo preço. A embalagem veio caprichada.,sem_problema
+R057,mochila,3,Comprei a mochila. Veio em outra cor. A embalagem veio caprichada.,diferente
+R058,vestido midi,2,Segunda compra na loja. Mandei e-mail e só veio resposta automática. A cor é diferente da foto.,diferente
+R059,tênis de corrida,1,Recebi o tênis de corrida ontem. Veio com defeito. O atendimento foi grosseiro.,defeito
+R060,jogo de lençol,2,O elástico não alcança os cantos do colchão.,tamanho
+R061,jogo de lençol,2,O elástico não alcança os cantos do colchão. Desbotou na primeira lavagem.,defeito
+R062,jogo de lençol,2,O elástico não alcança os cantos do colchão. A embalagem veio caprichada.,tamanho
+R063,luminária de mesa,3,Chegou depois do prazo prometido.,entrega
+R064,tênis de corrida,1,Segunda compra na loja. Veio com defeito. A embalagem veio caprichada.,defeito
+R065,garrafa térmica,3,Recebi a garrafa térmica ontem. Mandei e-mail e só veio resposta automática. A transportadora deixou no endereço errado.,entrega
+R066,garrafa térmica,5,Gostei muito.,sem_problema
+R067,tênis de corrida,2,Comprei para presente. Atrasou mais de uma semana.,entrega
+R068,vestido midi,5,Superou o que eu esperava.,sem_problema
+R069,fone de ouvido,1,O atendimento foi grosseiro.,atendimento
+R070,calça jeans,4,Recebi a calça jeans ontem. Gostei muito.,sem_problema
+R071,jogo de lençol,1,Recebi o jogo de lençol ontem. Veio com um arranhão. O elástico não alcança os cantos do colchão.,defeito
+R072,jogo de lençol,4,Chegou depois do prazo prometido. Não cabe no colchão de casal.,tamanho
+R073,luminária de mesa,3,Recebi a luminária de mesa ontem. O rastreio ficou parado vários dias. O chat não resolveu nada.,entrega
+R074,luminária de mesa,2,Segunda compra na loja. O atendimento foi grosseiro. O preço é justo.,atendimento
+R075,tênis de corrida,2,Segunda compra na loja. Veio sem o acessório do anúncio. Gostei do acabamento.,diferente
+R076,fone de ouvido,5,Comprei o fone de ouvido. Superou o que eu esperava.,sem_problema
+R077,jogo de lençol,1,Comprei o jogo de lençol. Veio com um arranhão. O tecido é bom.,defeito
+R078,mochila,1,Segunda compra na loja. A tampa vaza quando eu viro. O atendimento foi grosseiro.,defeito
+R079,luminária de mesa,3,Pedi azul e veio cinza.,diferente
+R080,jaqueta corta-vento,2,A entrega demorou demais. A embalagem veio caprichada.,entrega
+R081,garrafa térmica,3,Recebi a garrafa térmica ontem. Pedi azul e veio cinza. O preço é justo.,diferente
+R082,calça jeans,2,Segunda compra na loja. Ficou curto no comprimento.,tamanho
+R083,jogo de lençol,3,Segunda compra na loja. A cor é diferente da foto. Fiquei uma hora esperando no SAC.,diferente
+R084,jaqueta corta-vento,2,O rastreio ficou parado vários dias. Parece um número abaixo do que pedi.,tamanho
+R085,fone de ouvido,3,Chegou depois do prazo prometido. Veio sem o cabo que aparece no anúncio.,diferente
+R086,mochila,2,Comprei a mochila. A transportadora deixou no endereço errado. Quebrou na primeira semana.,defeito
+R087,calça jeans,2,A costura abriu depois de um uso. Gostei do acabamento.,defeito
+R088,vestido midi,1,Segunda compra na loja. Ficou justo no quadril. A costura abriu depois de um uso.,defeito
+R089,mochila,3,Comprei a mochila. Veio em outra cor. Chegou depois do prazo prometido.,diferente
+R090,camiseta básica,4,Comprei para presente. Ficou folgado nos ombros.,tamanho
+R091,garrafa térmica,2,A tampa vaza quando eu viro.,defeito
+R092,calça jeans,2,Comprei para presente. Muito apertado na cintura.,tamanho
+R093,tênis de corrida,1,Comprei o tênis de corrida. O pedido foi entregue na casa do vizinho. Veio com um arranhão.,defeito
+R094,camiseta básica,2,Comprei para presente. Ficou grande demais.,tamanho
+R095,mochila,5,Comprei a mochila. Prático e resistente.,sem_problema
+R096,camiseta básica,3,Comprei a camiseta básica. Ficou folgado nos ombros. O tecido é bom.,tamanho
+R097,camiseta básica,3,Comprei para presente. O anúncio dizia algodão e veio sintético. A embalagem veio caprichada.,diferente
+R098,calça jeans,3,Comprei para presente. Ficou largo nos braços. O tecido é bom.,tamanho
+R099,camiseta básica,3,Comprei para presente. Muito apertado na cintura. Veio sem o acessório do anúncio.,diferente
+R100,vestido midi,3,Ficou largo nos braços. Não tem o bolso que aparece no site.,diferente
+R101,tênis de corrida,4,Recebi o tênis de corrida ontem. Leve e firme no pé.,sem_problema
+R102,jogo de lençol,2,Comprei para presente. O reembolso está atrasado.,atendimento
+R103,garrafa térmica,1,Segunda compra na loja. Mandei e-mail e só veio resposta automática.,atendimento
+R104,jogo de lençol,3,Me passaram de um atendente para outro. O tecido é bom.,atendimento
+R105,camiseta básica,3,Comprei a camiseta básica. Ficou grande demais.,tamanho
+R106,calça jeans,2,Recebi a calça jeans ontem. Chegou com uma mancha que não sai. A estampa é outra.,defeito
+R107,garrafa térmica,2,Comprei a garrafa térmica. Pedi azul e veio cinza. A embalagem veio caprichada.,diferente
+R108,camiseta básica,4,"Comprei para presente. Ficou pequeno, peça um número acima.",tamanho
+R109,jogo de lençol,2,Comprei o jogo de lençol. Demorou quase um mês para chegar. Pedi azul e veio cinza.,diferente
+R110,calça jeans,1,Chegou com uma mancha que não sai. O estorno não caiu até hoje.,defeito
+R111,jogo de lençol,3,Não cabe no colchão de casal. Veio outro modelo.,diferente
+R112,jaqueta corta-vento,1,Segunda compra na loja. A costura abriu depois de um uso. Veio sem o acessório do anúncio.,defeito
+R113,mochila,1,Comprei a mochila. Veio em outra cor. Veio com defeito.,defeito
+R114,calça jeans,1,Comprei para presente. O rastreio ficou parado vários dias.,entrega
+R115,mochila,2,Comprei para presente. Paguei frete rápido e chegou no prazo normal. O atendimento foi grosseiro.,entrega
+R116,tênis de corrida,5,Leve e firme no pé.,sem_problema
+R117,luminária de mesa,2,Comprei a luminária de mesa. Veio outro modelo. A transportadora deixou no endereço errado.,diferente
+R118,calça jeans,2,Recebi a calça jeans ontem. Paguei frete rápido e chegou no prazo normal. A embalagem veio caprichada.,entrega
+R119,tênis de corrida,2,Ficou largo no calcanhar.,tamanho
+R120,luminária de mesa,2,Comprei a luminária de mesa. Fiquei uma hora esperando no SAC. A cor é diferente da foto.,diferente
+R121,luminária de mesa,2,Comprei a luminária de mesa. Não liga de jeito nenhum. A cor é diferente da foto.,defeito
+R122,camiseta básica,1,Veio com um arranhão.,defeito
+R123,fone de ouvido,2,Recebi o fone de ouvido ontem. Não liga de jeito nenhum. A embalagem veio caprichada.,defeito
+R124,fone de ouvido,2,Segunda compra na loja. O cabo veio com mau contato. O chat não resolveu nada.,defeito
+R125,fone de ouvido,5,Comprei o fone de ouvido. Chegou certinho e é bonito.,sem_problema
+R126,vestido midi,1,Comprei para presente. A costura abriu depois de um uso. A tabela de medidas não bate com a peça.,defeito
+R127,vestido midi,1,Comprei para presente. Ficou largo nos braços. O zíper quebrou no segundo dia.,defeito
+R128,tênis de corrida,2,Comprei para presente. Atrasou mais de uma semana. A embalagem veio caprichada.,entrega
+R129,vestido midi,2,A estampa é outra. Atrasou mais de uma semana.,diferente
+R130,vestido midi,1,O atendimento foi grosseiro. Demorou quase um mês para chegar.,entrega
+R131,vestido midi,4,Ficou grande demais.,tamanho
+R132,vestido midi,5,Segunda compra na loja. Superou o que eu esperava.,sem_problema
+R133,jogo de lençol,2,O elástico não alcança os cantos do colchão. Veio sem o acessório do anúncio.,diferente
+R134,vestido midi,2,Recebi o vestido midi ontem. Chegou com uma trinca. Demorou quase um mês para chegar.,defeito
+R135,tênis de corrida,5,Comprei para presente. Já é o segundo que compro. A embalagem veio caprichada.,sem_problema
+R136,vestido midi,1,Recebi o vestido midi ontem. Chegou com uma mancha que não sai. O chat não resolveu nada.,defeito
+R137,vestido midi,3,Segunda compra na loja. Paguei frete rápido e chegou no prazo normal. Gostei do acabamento.,entrega
+R138,luminária de mesa,3,Segunda compra na loja. Pedi a troca e ninguém respondeu. A embalagem veio caprichada.,atendimento
+R139,calça jeans,4,Parece um número abaixo do que pedi. A embalagem veio caprichada.,tamanho
+R140,jaqueta corta-vento,2,Segunda compra na loja. Não tem o bolso que aparece no site.,diferente
+R141,vestido midi,1,Comprei o vestido midi. Quebrou na primeira semana.,defeito
+R142,garrafa térmica,1,A alça soltou logo no começo.,defeito
+R143,garrafa térmica,2,Segunda compra na loja. O reembolso está atrasado. O preço é justo.,atendimento
+R144,fone de ouvido,4,Segunda compra na loja. Gostei muito. A embalagem veio caprichada.,sem_problema
+R145,camiseta básica,3,Ficou grande demais. Fiquei uma hora esperando no SAC.,tamanho
+R146,tênis de corrida,4,"Segunda compra na loja. Bom acabamento, vale o preço. A embalagem veio caprichada.",sem_problema
+R147,jaqueta corta-vento,2,Recebi a jaqueta corta-vento ontem. Veio com um arranhão. Ficou largo nos braços.,defeito
+R148,tênis de corrida,3,Segunda compra na loja. A cor é diferente da foto. A embalagem veio caprichada.,diferente
+R149,camiseta básica,3,Comprei a camiseta básica. A cor é diferente da foto.,diferente
+R150,tênis de corrida,1,Recebi o tênis de corrida ontem. Fiquei uma hora esperando no SAC.,atendimento
+R151,garrafa térmica,1,Comprei para presente. O rastreio ficou parado vários dias. O zíper emperrou.,defeito
+R152,jogo de lençol,2,O reembolso está atrasado. A embalagem veio caprichada.,atendimento
+R153,camiseta básica,2,Recebi a camiseta básica ontem. Chegou com uma mancha que não sai. A cor é diferente da foto.,defeito

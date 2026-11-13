@@ -1,0 +1,26 @@
+{
+ "documento": "guia-entrega-agendada.md",
+ "como_ler": "Cada pergunta lista em 'precisa' os textos do guia que a resposta usa. A resposta fica inteira num pedaço quando um mesmo pedaço tem todos eles.",
+ "perguntas": [
+  {"id": "E1", "pergunta": "Quanto custa receber à noite?",
+   "precisa": ["| Janela | Horário | Taxa |",
+               "| Noite | das 18h às 21h | R$ 39,90 |"]},
+  {"id": "E2", "pergunta": "Meu filho de 16 anos pode receber a entrega?",
+   "precisa": ["Quem recebe precisa ter 18 anos ou mais e mostrar um documento com foto."]},
+  {"id": "E3", "pergunta": "Quantas vezes posso reagendar a entrega do meu sofá sob medida?",
+   "precisa": ["Cada pedido pode ser reagendado até três vezes.",
+               "Produtos sob encomenda, feitos sob medida, só podem ser reagendados uma vez"]},
+  {"id": "E4", "pergunta": "Quero reagendar e já passou das 18h da véspera. Quanto custa?",
+   "precisa": ["até as 18h do dia útil anterior à data marcada",
+               "Depois desse horário, o reagendamento pode ser pedido pelo atendimento e custa R$ 49,90"]},
+  {"id": "E5", "pergunta": "A loja instala a máquina de lavar?",
+   "precisa": ["A instalação de eletrodomésticos não está incluída.",
+               "Para a máquina de lavar, a loja indica a assistência técnica autorizada, que cobra a instalação à parte."]},
+  {"id": "E6", "pergunta": "Não tinha ninguém em casa nas duas tentativas da entrega da noite. Quanto pago para receber?",
+   "precisa": ["Depois de duas tentativas sem ninguém para receber, o pedido volta para o centro de distribuição.",
+               "a taxa da janela é cobrada outra vez",
+               "| Noite | das 18h às 21h | R$ 39,90 |"]},
+  {"id": "E7", "pergunta": "Esqueci de agendar. O que acontece?",
+   "precisa": ["Se você não agendar em 10 dias úteis, a loja marca a primeira data livre na janela da manhã e avisa por e-mail."]}
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "descricao": "Pedido do financeiro: a partir de 1º de dezembro de 2026, o estorno da cobrança repetida sai em até 5 dias úteis.",
+ "trechos": [
+  {
+   "id": "pagamentos@2#duplicidade",
+   "documento": "pagamentos",
+   "secao": "duplicidade",
+   "versao": 2,
+   "titulo": "Cobrança em duplicidade",
+   "texto": "Se a fatura mostrar a mesma compra duas vezes, mande o número do pedido pelo atendimento. A equipe financeira faz o estorno da cobrança repetida em até 5 dias úteis.",
+   "inicio": "2026-12-01",
+   "fim": null,
+   "perfis": [
+    "cliente",
+    "atendimento"
+   ],
+   "status": "aprovado"
+  }
+ ]
+}

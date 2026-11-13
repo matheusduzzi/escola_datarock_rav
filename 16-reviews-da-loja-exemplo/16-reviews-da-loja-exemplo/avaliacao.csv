@@ -1,0 +1,61 @@
+id,produto,nota,texto,rotulo_a,rotulo_b,motivo
+A01,luminária de mesa,1,Comprei para o aniversário da minha filha e chegou dois dias depois da festa.,entrega,entrega,entrega
+A02,fone de ouvido,2,O rastreio ficou parado uma semana na mesma cidade.,entrega,entrega,entrega
+A03,vestido midi,2,"A cor é linda, igual à foto, mas a costura da barra abriu no primeiro dia.",defeito,defeito,defeito
+A04,jaqueta corta-vento,5,"Leve e quentinha, perfeita para viajar.",sem_problema,sem_problema,sem_problema
+A05,luminária de mesa,1,"Defeito de fábrica, não acende de jeito nenhum.",defeito,defeito,defeito
+A06,garrafa térmica,2,Chegou atrasada e ainda com a tampa quebrada.,defeito,defeito,defeito
+A07,calça jeans,3,"Ficou apertada na cintura, e eu peguei o meu número de sempre.",tamanho,tamanho,tamanho
+A08,calça jeans,1,Pedi a troca há 20 dias e ninguém respondeu.,atendimento,atendimento,atendimento
+A09,vestido midi,2,O pedido foi entregue para outra pessoa e tive que ir buscar no vizinho.,entrega,entrega,entrega
+A10,mochila,3,"Veio depois do prazo, mas inteira e exatamente a da foto.",entrega,entrega,entrega
+A11,calça jeans,2,"O comprimento é enorme, vou ter que pagar costureira.",tamanho,tamanho,tamanho
+A12,fone de ouvido,2,O chat me passou de um atendente para outro e não resolveu.,atendimento,atendimento,atendimento
+A13,fone de ouvido,4,"Nenhum defeito até agora, a bateria dura bastante.",sem_problema,sem_problema,sem_problema
+A14,calça jeans,2,"Desbotou na primeira lavagem, a coxa ficou manchada de azul claro.",defeito,diferente,defeito
+A15,mochila,2,Atrasou nove dias e ninguém avisou nada.,entrega,entrega,entrega
+A16,mochila,1,A alça soltou com o notebook dentro. Quase perdi o computador.,defeito,defeito,defeito
+A17,vestido midi,2,"O tecido é bem mais fino que o da foto, quase transparente.",diferente,diferente,diferente
+A18,jaqueta corta-vento,3,Não tem o capuz que aparecia nas fotos.,diferente,diferente,diferente
+A19,jogo de lençol,3,Produto ok. O atendimento na troca foi grosseiro.,atendimento,atendimento,atendimento
+A20,jogo de lençol,4,"Uma grande surpresa, macio e não solta fiapo.",sem_problema,sem_problema,sem_problema
+A21,fone de ouvido,1,O lado esquerdo parou de funcionar em cinco dias.,defeito,defeito,defeito
+A22,camiseta básica,3,"Veste bem, mas é bem maior do que a tabela diz.",tamanho,tamanho,tamanho
+A23,jogo de lençol,2,Rasgou na costura depois de duas lavagens.,defeito,defeito,defeito
+A24,tênis de corrida,1,Chegou com a caixa amassada e o tênis com o bico arranhado.,defeito,entrega,defeito
+A25,camiseta básica,5,"Tecido grosso, não amassa, comprei mais duas.",sem_problema,sem_problema,sem_problema
+A26,jaqueta corta-vento,2,O zíper emperrou no primeiro uso e agora não fecha.,defeito,defeito,defeito
+A27,jaqueta corta-vento,2,"Chegou atrasada, a frente fria já tinha passado.",entrega,entrega,entrega
+A28,calça jeans,4,"Tecido bom, numeração um pouco diferente da que eu uso.",tamanho,diferente,tamanho
+A29,vestido midi,3,Ficou grande no busto e apertado no quadril.,tamanho,tamanho,tamanho
+A30,jogo de lençol,3,"A cor é diferente, é um bege puxado para o amarelo.",diferente,diferente,diferente
+A31,camiseta básica,3,"A gola é careca, no anúncio era gola V.",diferente,diferente,diferente
+A32,calça jeans,3,A entrega levou mais que o prometido. A calça é boa.,entrega,entrega,entrega
+A33,mochila,2,Pedi a preta e veio uma azul-marinho.,diferente,diferente,diferente
+A34,mochila,2,Mandei três e-mails sobre o estorno e só recebi resposta automática.,atendimento,atendimento,atendimento
+A35,luminária de mesa,2,"No site dizia metal, mas é plástico pintado.",diferente,diferente,diferente
+A36,camiseta básica,2,Me prometeram um cupom pelo erro e o cupom nunca veio.,atendimento,atendimento,atendimento
+A37,luminária de mesa,3,Liguei no SAC para saber da garantia e fiquei 40 minutos esperando.,atendimento,atendimento,atendimento
+A38,camiseta básica,1,"Veio com um furo na manga, dá para ver de longe.",defeito,defeito,defeito
+A39,tênis de corrida,5,"Confortável demais, já corri 50 km com ele.",sem_problema,sem_problema,sem_problema
+A40,fone de ouvido,2,"Veio o modelo sem microfone, e eu comprei o com microfone.",diferente,diferente,diferente
+A41,garrafa térmica,1,"Não segura a temperatura nem por uma hora, o café esfria igual numa caneca.",defeito,defeito,defeito
+A42,jaqueta corta-vento,3,"As mangas passam da mão, tive que dobrar.",tamanho,tamanho,tamanho
+A43,tênis de corrida,3,"Entrega rápida, mas a forma é pequena, peça um número acima.",tamanho,tamanho,tamanho
+A44,mochila,5,Cabe tudo e não pesa nas costas.,sem_problema,sem_problema,sem_problema
+A45,garrafa térmica,5,"Mantém o gelo o dia todo, recomendo.",sem_problema,sem_problema,sem_problema
+A46,calça jeans,4,"Muito boa, o tamanho ficou perfeito.",sem_problema,sem_problema,sem_problema
+A47,garrafa térmica,2,Atrasou um pouco e a cor não tem nada a ver com a foto.,diferente,diferente,diferente
+A48,vestido midi,3,"Não veio com defeito nenhum, só que o M parece um P.",tamanho,tamanho,tamanho
+A49,jaqueta corta-vento,4,"Ótima jaqueta, só ficou um pouco folgada nos ombros.",tamanho,tamanho,tamanho
+A50,vestido midi,2,O reembolso ainda não caiu depois de um mês.,atendimento,atendimento,atendimento
+A51,tênis de corrida,2,"Diferente do anúncio, e a numeração também veio errada.",diferente,tamanho,diferente
+A52,vestido midi,5,Recebi antes do prazo e ficou lindo.,sem_problema,sem_problema,sem_problema
+A53,tênis de corrida,2,A sola descolou na segunda corrida. Paguei caro para durar duas semanas.,defeito,defeito,defeito
+A54,garrafa térmica,2,"Ótimo, chegou só 15 dias depois do prazo.",entrega,entrega,entrega
+A55,tênis de corrida,2,"Comprei 40 e parece 38, os dedos ficam espremidos.",tamanho,tamanho,tamanho
+A56,jogo de lençol,3,"Produto bom, mas a transportadora deixou na portaria errada.",entrega,entrega,entrega
+A57,camiseta básica,2,Pedi G pela tabela e ficou curta e justa.,tamanho,tamanho,tamanho
+A58,luminária de mesa,5,"Luz boa para ler, montei em dois minutos.",sem_problema,sem_problema,sem_problema
+A59,tênis de corrida,2,"Paguei frete expresso e veio pelo normal, levou uma semana.",entrega,entrega,entrega
+A60,camiseta básica,3,"Serviu no comprimento, mas ficou larga demais nos braços.",tamanho,tamanho,tamanho

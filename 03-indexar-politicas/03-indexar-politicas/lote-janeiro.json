@@ -1,0 +1,58 @@
+{
+ "descricao": "Mudanças de janeiro de 2027, já conferidas pela coordenadora do atendimento contra o contrato do corpus.",
+ "pedidos": [
+  "J1. Comercial: a garantia estendida ganha a opção de 36 meses a partir de 1º de janeiro de 2027.",
+  "J2. Coordenação: a supervisão passa a ler a regra de boleto e pix. O texto não muda.",
+  "J3. Marketing: o cupom de primeira compra pelo app entra em 1º de janeiro de 2027."
+ ],
+ "trechos": [
+  {
+   "id": "garantia@1#estendida",
+   "documento": "garantia",
+   "secao": "estendida",
+   "versao": 1,
+   "titulo": "Garantia estendida",
+   "texto": "A garantia estendida é opcional, contratada no carrinho, e soma 12 ou 24 meses à garantia do fabricante.",
+   "inicio": "2026-01-01",
+   "fim": "2027-01-01",
+   "perfis": ["cliente", "atendimento"],
+   "status": "aprovado"
+  },
+  {
+   "id": "garantia@2#estendida",
+   "documento": "garantia",
+   "secao": "estendida",
+   "versao": 2,
+   "titulo": "Garantia estendida",
+   "texto": "A garantia estendida é opcional, contratada no carrinho, e soma 12, 24 ou 36 meses à garantia do fabricante.",
+   "inicio": "2027-01-01",
+   "fim": null,
+   "perfis": ["cliente", "atendimento"],
+   "status": "aprovado"
+  },
+  {
+   "id": "pagamentos@1#boleto-pix",
+   "documento": "pagamentos",
+   "secao": "boleto-pix",
+   "versao": 1,
+   "titulo": "Boleto e pix",
+   "texto": "O pix é confirmado na hora. O boleto vence em 3 dias e o pedido é cancelado se não for pago até o vencimento.",
+   "inicio": "2026-01-01",
+   "fim": null,
+   "perfis": ["cliente", "atendimento", "supervisao"],
+   "status": "aprovado"
+  },
+  {
+   "id": "cupons@1#primeira-compra",
+   "documento": "cupons",
+   "secao": "primeira-compra",
+   "versao": 1,
+   "titulo": "Cupom de primeira compra",
+   "texto": "Na primeira compra pelo app, o cupom BEMVINDO dá 10% de desconto em produtos de até R$ 300,00. O cupom não vale junto com outro cupom.",
+   "inicio": "2027-01-01",
+   "fim": null,
+   "perfis": ["cliente", "atendimento"],
+   "status": "aprovado"
+  }
+ ]
+}

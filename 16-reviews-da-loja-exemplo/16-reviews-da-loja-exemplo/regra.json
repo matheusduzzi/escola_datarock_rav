@@ -1,0 +1,10 @@
+{
+ "escrita_em": "2026-11-16",
+ "base": "palavras",
+ "volume_mes": 8000,
+ "acerto_minimo": 0.85,
+ "defeitos_perdidos_maximo": 1,
+ "p_maximo": 0.05,
+ "custo_mes_maximo": 60.0,
+ "escolha": "Entre as que passam, fica a mais barata. Uma mais cara só entra se ganhar da mais barata com p até 0,05 no teste do sinal."
+}

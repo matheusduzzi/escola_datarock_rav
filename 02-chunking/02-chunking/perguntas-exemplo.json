@@ -1,0 +1,23 @@
+{
+ "documento": "regulamento-clube.md",
+ "como_ler": "Cada pergunta lista em 'precisa' os textos do regulamento que a resposta usa. A resposta fica inteira num pedaço quando um mesmo pedaço tem todos eles.",
+ "perguntas": [
+  {"id": "C1", "pergunta": "Quanto vale cada ponto no pagamento?",
+   "precisa": ["A cada 100 pontos, você ganha R$ 5,00 de desconto."]},
+  {"id": "C2", "pergunta": "Quantos pontos eu ganho por real no nível Prata?",
+   "precisa": ["| Nível | Gasto nos últimos 12 meses | Pontos por R$ 1,00 | Frete grátis |",
+               "| Prata | de R$ 1.000,00 a R$ 2.999,99 | 2 | acima de R$ 99,00 |"]},
+  {"id": "C3", "pergunta": "Meus pontos vencem?",
+   "precisa": ["Os pontos valem por 12 meses, contados do dia em que ficam disponíveis.",
+               "No nível Ouro, os pontos não vencem enquanto você continuar no nível."]},
+  {"id": "C4", "pergunta": "Devolvi um produto. O que acontece com os pontos dele?",
+   "precisa": ["Pontos de uma compra devolvida saem do saldo, mesmo que você já tenha usado esses pontos.",
+               "o saldo pode ficar negativo"]},
+  {"id": "C5", "pergunta": "Posso pagar o frete com pontos?",
+   "precisa": ["Os pontos pagam até 50% do valor dos produtos de uma compra.",
+               "O frete não pode ser pago com pontos."]},
+  {"id": "C6", "pergunta": "Quando os pontos de uma compra ficam disponíveis?",
+   "precisa": ["Os pontos de uma compra aparecem como pendentes no dia do pagamento.",
+               "Eles ficam disponíveis no dia seguinte ao fim do prazo de troca do pedido."]}
+ ]
+}

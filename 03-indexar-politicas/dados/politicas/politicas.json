@@ -1,0 +1,240 @@
+[
+ {
+  "id": "trocas@1#prazo",
+  "documento": "trocas",
+  "secao": "prazo",
+  "versao": 1,
+  "titulo": "Prazo para troca",
+  "texto": "Você tem 30 dias corridos, contados da entrega, para pedir a troca de um produto sem defeito. O produto precisa voltar na embalagem original, com etiqueta.",
+  "inicio": "2026-01-01",
+  "fim": "2026-10-01",
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "trocas@2#prazo",
+  "documento": "trocas",
+  "secao": "prazo",
+  "versao": 2,
+  "titulo": "Prazo para troca",
+  "texto": "Você tem 20 dias corridos, contados da entrega, para pedir a troca de um produto sem defeito. O produto precisa voltar na embalagem original, com etiqueta.",
+  "inicio": "2026-10-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "trocas@3#prazo",
+  "documento": "trocas",
+  "secao": "prazo",
+  "versao": 3,
+  "titulo": "Prazo para troca",
+  "texto": "Você tem 40 dias corridos, contados da entrega, para pedir a troca de um produto sem defeito.",
+  "inicio": "2026-12-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "rascunho"
+ },
+ {
+  "id": "trocas@1#defeito",
+  "documento": "trocas",
+  "secao": "defeito",
+  "versao": 1,
+  "titulo": "Produto com defeito ou quebrado",
+  "texto": "Se o produto chegou quebrado ou com defeito, envie uma foto pelo atendimento em até 7 dias da entrega. A loja busca o produto sem custo e manda outro igual, ou devolve o valor se não houver estoque.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "trocas@1#reembolso",
+  "documento": "trocas",
+  "secao": "reembolso",
+  "versao": 1,
+  "titulo": "Devolução do dinheiro",
+  "texto": "Na desistência da compra feita pela internet, o prazo é de 7 dias da entrega. O reembolso volta pelo mesmo meio de pagamento em até 10 dias úteis depois que o produto chega ao nosso centro de distribuição.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "trocas@1#tamanho",
+  "documento": "trocas",
+  "secao": "tamanho",
+  "versao": 1,
+  "titulo": "Tamanho de roupa",
+  "texto": "Roupa e calçado que não serviram podem ser trocados por outro tamanho uma vez, sem custo de frete, dentro do prazo de troca.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "entregas@1#frete",
+  "documento": "entregas",
+  "secao": "frete",
+  "versao": 1,
+  "titulo": "Frete grátis",
+  "texto": "O frete é grátis para compras acima de R$ 199,00 nas capitais e regiões metropolitanas atendidas. Abaixo desse valor, o frete é calculado no carrinho pelo CEP.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "entregas@1#prazo",
+  "documento": "entregas",
+  "secao": "prazo",
+  "versao": 1,
+  "titulo": "Prazo de entrega",
+  "texto": "O prazo aparece no carrinho e começa a contar depois da confirmação do pagamento. Pedido pago com boleto só é separado depois da compensação, em até 2 dias úteis.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "entregas@1#extravio",
+  "documento": "entregas",
+  "secao": "extravio",
+  "versao": 1,
+  "titulo": "Pedido extraviado",
+  "texto": "Quando a transportadora confirma o extravio, a equipe de atendimento abre a ocorrência e oferece novo envio ou reembolso. Essa decisão é feita por uma pessoa.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "pagamentos@1#parcelamento",
+  "documento": "pagamentos",
+  "secao": "parcelamento",
+  "versao": 1,
+  "titulo": "Parcelamento no cartão",
+  "texto": "Compras no cartão de crédito podem ser parceladas em até 6 vezes sem juros, com parcela mínima de R$ 30,00.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "pagamentos@1#boleto-pix",
+  "documento": "pagamentos",
+  "secao": "boleto-pix",
+  "versao": 1,
+  "titulo": "Boleto e pix",
+  "texto": "O pix é confirmado na hora. O boleto vence em 3 dias e o pedido é cancelado se não for pago até o vencimento.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "pagamentos@1#duplicidade",
+  "documento": "pagamentos",
+  "secao": "duplicidade",
+  "versao": 1,
+  "titulo": "Cobrança em duplicidade",
+  "texto": "Se a fatura mostrar a mesma compra duas vezes, mande o número do pedido pelo atendimento. O estorno da cobrança repetida é feito pela equipe financeira.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "garantia@1#eletrodomesticos",
+  "documento": "garantia",
+  "secao": "eletrodomesticos",
+  "versao": 1,
+  "titulo": "Garantia de eletrodomésticos",
+  "texto": "Eletrodomésticos têm 12 meses de garantia do fabricante, além dos 90 dias da garantia legal. O conserto é feito na assistência técnica autorizada.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "garantia@1#estendida",
+  "documento": "garantia",
+  "secao": "estendida",
+  "versao": 1,
+  "titulo": "Garantia estendida",
+  "texto": "A garantia estendida é opcional, contratada no carrinho, e soma 12 ou 24 meses à garantia do fabricante.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "excecoes@1#troca-fora-do-prazo",
+  "documento": "excecoes",
+  "secao": "troca-fora-do-prazo",
+  "versao": 1,
+  "titulo": "Troca fora do prazo",
+  "texto": "A supervisão pode aceitar uma troca em até 60 dias corridos da entrega, caso a caso. O atendimento não oferece essa exceção ao cliente.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "supervisao"
+  ],
+  "status": "aprovado"
+ },
+ {
+  "id": "financeiro@1#estorno-manual",
+  "documento": "financeiro",
+  "secao": "estorno-manual",
+  "versao": 1,
+  "titulo": "Estorno manual",
+  "texto": "Estorno manual acima de R$ 500,00 precisa da aprovação de duas pessoas da equipe financeira.",
+  "inicio": "2026-01-01",
+  "fim": null,
+  "perfis": [
+   "financeiro"
+  ],
+  "status": "aprovado"
+ }
+]

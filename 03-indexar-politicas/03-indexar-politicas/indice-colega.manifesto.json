@@ -1,0 +1,23 @@
+{
+ "formato": "indice-politicas/1",
+ "modelo": {
+  "nome": "ngramas-hash",
+  "versao": 1,
+  "ngramas": [
+   3,
+   5
+  ],
+  "hash": "blake2b-64",
+  "sinal": "bit mais alto do hash",
+  "norma": 1,
+  "casas": 6
+ },
+ "dimensao": 512,
+ "cortador": "uma seção por pedaço, com o caminho dos títulos (estrutura:800 da aula 02)",
+ "politicas": "dados/politicas/politicas.json",
+ "politicas_sha256": "809e95ace2e8314ba19e7b9f8d411a18bf6244be5437a4ea76a538ed8304b15e",
+ "lote": null,
+ "lote_sha256": null,
+ "registros": 16,
+ "indice_sha256": "896685fccf4a6566bbb81ad71cf2590ecd7964b3831671734ffa9d1e316e7566"
+}
