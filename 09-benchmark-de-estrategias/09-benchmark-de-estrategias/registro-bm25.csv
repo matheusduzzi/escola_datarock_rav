@@ -1,0 +1,17 @@
+estrategia,id,ranking,tempo_ms,tokens_embedding,pares_reranker
+bm25,E1,pagamentos@1#boleto-pix|entregas@1#prazo|trocas@1#reembolso,0.250,0,0
+bm25,E2,garantia@1#estendida|garantia@1#eletrodomesticos|entregas@1#prazo,0.241,0,0
+bm25,E3,entregas@1#frete|trocas@1#tamanho,0.224,0,0
+bm25,E4,trocas@1#defeito|trocas@2#prazo|trocas@1#reembolso,0.244,0,0
+bm25,P1,,0.223,0,0
+bm25,P2,pagamentos@1#parcelamento|pagamentos@1#duplicidade,0.240,0,0
+bm25,P3,,0.261,0,0
+bm25,P4,trocas@1#reembolso|pagamentos@1#duplicidade,0.248,0,0
+bm25,N1,trocas@1#reembolso|pagamentos@1#parcelamento|pagamentos@1#duplicidade,0.245,0,0
+bm25,N2,trocas@1#reembolso|pagamentos@1#boleto-pix|garantia@1#eletrodomesticos,0.181,0,0
+bm25,N3,trocas@2#prazo|entregas@1#prazo|trocas@1#defeito,0.196,0,0
+bm25,N4,garantia@1#estendida|garantia@1#eletrodomesticos,0.250,0,0
+bm25,S1,,0.225,0,0
+bm25,S2,,0.210,0,0
+bm25,S3,,0.211,0,0
+bm25,S4,trocas@1#defeito|pagamentos@1#boleto-pix|entregas@1#extravio,0.244,0,0

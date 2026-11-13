@@ -1,0 +1,9 @@
+{
+  "escrita_em": "2026-11-05",
+  "decisao": "trocar o modelo grande pelo pequeno no assistente",
+  "base": "grande",
+  "nao_pode_cair": ["consulta", "conta", "transbordo"],
+  "p95_max_ms": 8000,
+  "mistura_mes": {"consulta": 0.5, "conta": 0.3, "transbordo": 0.2},
+  "volume_mes": 12000
+}

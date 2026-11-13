@@ -1,0 +1,160 @@
+hora,conversa,assunto,parte,tentativa,resultado,detalhe,duracao_s
+10:00:30,E01,pagamentos,busca,1,ok,,1
+10:00:31,E01,pagamentos,modelo,1.1,ok,,4
+10:00:35,E01,pagamentos,checagem,1,passou,,0
+10:00:35,E01,pagamentos,conversa,-,responder,-,5
+10:02:05,E02,trocas,busca,1,ok,,1
+10:02:06,E02,trocas,modelo,1.1,ok,,4
+10:02:10,E02,trocas,checagem,1,passou,,0
+10:02:10,E02,trocas,conversa,-,responder,-,5
+10:03:59,E03,entregas,busca,1,ok,,1
+10:04:00,E03,entregas,modelo,1.1,erro,timeout,20
+10:04:22,E03,entregas,modelo,1.2,ok,,4
+10:04:26,E03,entregas,checagem,1,passou,,0
+10:04:26,E03,entregas,conversa,-,responder,-,27
+10:05:20,E04,garantia,busca,1,ok,,1
+10:05:21,E04,garantia,modelo,1.1,ok,,4
+10:05:25,E04,garantia,checagem,1,passou,,0
+10:05:25,E04,garantia,conversa,-,responder,-,5
+10:06:50,E05,trocas,busca,1,ok,,1
+10:06:51,E05,trocas,modelo,1.1,ok,,4
+10:06:55,E05,trocas,checagem,1,barrou,numero-fora-do-trecho,0
+10:06:55,E05,trocas,modelo,2.1,ok,,4
+10:06:59,E05,trocas,checagem,2,passou,,0
+10:06:59,E05,trocas,conversa,-,responder,-,9
+10:08:15,E06,pagamentos,busca,1,ok,,1
+10:08:16,E06,pagamentos,modelo,1.1,ok,,4
+10:08:20,E06,pagamentos,checagem,1,passou,,0
+10:08:20,E06,pagamentos,conversa,-,responder,-,5
+10:09:40,E07,outros,busca,1,ok,,1
+10:09:41,E07,outros,modelo,1.1,ok,,4
+10:09:45,E07,outros,checagem,1,nao-achou,o modelo disse que não achou,0
+10:09:45,E07,outros,conversa,-,não sei,modelo-nao-achou,5
+10:11:05,E08,entregas,busca,1,ok,,1
+10:11:06,E08,entregas,modelo,1.1,ok,,4
+10:11:10,E08,entregas,checagem,1,passou,,0
+10:11:10,E08,entregas,conversa,-,responder,-,5
+10:12:10,E09,trocas,busca,1,erro,erro do serviço de busca,5
+10:12:17,E09,trocas,busca,2,erro,erro do serviço de busca,5
+10:12:22,E09,trocas,conversa,-,não sei,busca-fora,12
+10:12:50,E10,pagamentos,busca,1,erro,erro do serviço de busca,5
+10:12:55,-,,busca,-,disjuntor abriu,3 falhas seguidas; fica aberto 300 s,0
+10:12:57,E10,pagamentos,busca,2,nao-chamada,disjuntor aberto,0
+10:12:57,E10,pagamentos,conversa,-,não sei,busca-fora,7
+10:13:30,E11,entregas,busca,1,nao-chamada,disjuntor aberto,0
+10:13:30,E11,entregas,conversa,-,passar,busca-fora + nao-sei-com-pedido,0
+10:14:40,E12,trocas,busca,1,nao-chamada,disjuntor aberto,0
+10:14:40,E12,trocas,conversa,-,não sei,busca-fora,0
+10:15:55,E13,pagamentos,busca,1,nao-chamada,disjuntor aberto,0
+10:15:55,E13,pagamentos,conversa,-,passar,busca-fora + pediu-pessoa,0
+10:17:10,E14,garantia,busca,1,nao-chamada,disjuntor aberto,0
+10:17:10,E14,garantia,conversa,-,não sei,busca-fora,0
+10:18:25,-,,busca,-,disjuntor meio-aberto,a próxima chamada testa,0
+10:18:25,E15,entregas,busca,1,erro,erro do serviço de busca,5
+10:18:30,-,,busca,-,disjuntor abriu,o teste falhou; fica aberto 300 s,0
+10:18:32,E15,entregas,busca,2,nao-chamada,disjuntor aberto,0
+10:18:32,E15,entregas,conversa,-,não sei,busca-fora,7
+10:19:50,E16,trocas,busca,1,nao-chamada,disjuntor aberto,0
+10:19:50,E16,trocas,conversa,-,não sei,busca-fora,0
+10:21:15,E17,pagamentos,busca,1,nao-chamada,disjuntor aberto,0
+10:21:15,E17,pagamentos,conversa,-,não sei,busca-fora,0
+10:22:40,E18,entregas,busca,1,nao-chamada,disjuntor aberto,0
+10:22:40,E18,entregas,conversa,-,não sei,busca-fora,0
+10:24:10,-,,busca,-,disjuntor meio-aberto,a próxima chamada testa,0
+10:24:10,E19,trocas,busca,1,ok,,1
+10:24:11,-,,busca,-,disjuntor fechou,o teste deu certo,0
+10:24:11,E19,trocas,modelo,1.1,ok,,4
+10:24:15,E19,trocas,checagem,1,passou,,0
+10:24:15,E19,trocas,conversa,-,responder,-,5
+10:25:30,E20,garantia,busca,1,ok,,1
+10:25:31,E20,garantia,modelo,1.1,ok,,4
+10:25:35,E20,garantia,checagem,1,passou,,0
+10:25:35,E20,garantia,conversa,-,responder,-,5
+10:27:00,E21,pagamentos,busca,1,ok,,1
+10:27:01,E21,pagamentos,modelo,1.1,ok,,4
+10:27:05,E21,pagamentos,checagem,1,barrou,frase-sem-fonte,0
+10:27:05,E21,pagamentos,modelo,2.1,ok,,4
+10:27:09,E21,pagamentos,checagem,2,passou,,0
+10:27:09,E21,pagamentos,conversa,-,responder,-,9
+10:28:45,E22,trocas,busca,1,ok,,1
+10:28:46,E22,trocas,modelo,1.1,ok,,4
+10:28:50,E22,trocas,checagem,1,passou,,0
+10:28:50,E22,trocas,conversa,-,responder,-,5
+10:30:20,E23,entregas,busca,1,ok,,1
+10:30:21,E23,entregas,modelo,1.1,ok,,4
+10:30:25,E23,entregas,checagem,1,passou,,0
+10:30:25,E23,entregas,conversa,-,responder,-,5
+10:32:00,E24,outros,busca,1,ok,,1
+10:32:01,E24,outros,modelo,1.1,ok,,4
+10:32:05,E24,outros,checagem,1,nao-achou,o modelo disse que não achou,0
+10:32:05,E24,outros,conversa,-,não sei,modelo-nao-achou,5
+10:33:40,E25,pagamentos,busca,1,ok,,1
+10:33:41,E25,pagamentos,modelo,1.1,ok,,4
+10:33:45,E25,pagamentos,checagem,1,passou,,0
+10:33:45,E25,pagamentos,conversa,-,responder,-,5
+10:35:15,E26,trocas,busca,1,ok,,1
+10:35:16,E26,trocas,modelo,1.1,ok,,4
+10:35:20,E26,trocas,checagem,1,passou,,0
+10:35:20,E26,trocas,conversa,-,responder,-,5
+10:37:00,E27,entregas,busca,1,ok,,1
+10:37:01,E27,entregas,modelo,1.1,ok,,4
+10:37:05,E27,entregas,checagem,1,passou,,0
+10:37:05,E27,entregas,conversa,-,responder,-,5
+10:38:45,E28,pagamentos,busca,1,ok,,1
+10:38:46,E28,pagamentos,modelo,1.1,ok,,4
+10:38:50,E28,pagamentos,checagem,1,passou,,0
+10:38:50,E28,pagamentos,conversa,-,responder,-,5
+10:40:30,E29,trocas,busca,1,ok,,1
+10:40:31,E29,trocas,modelo,1.1,ok,,4
+10:40:35,E29,trocas,checagem,1,barrou,numero-fora-do-trecho,0
+10:40:35,E29,trocas,modelo,2.1,ok,,4
+10:40:39,E29,trocas,checagem,2,barrou,numero-fora-do-trecho,0
+10:40:39,E29,trocas,conversa,-,não sei,numero-fora-do-trecho,9
+10:42:10,E30,pagamentos,busca,1,ok,,1
+10:42:11,E30,pagamentos,modelo,1.1,ok,,4
+10:42:15,E30,pagamentos,checagem,1,barrou,numero-fora-do-trecho,0
+10:42:15,E30,pagamentos,modelo,2.1,ok,,4
+10:42:19,E30,pagamentos,checagem,2,barrou,numero-fora-do-trecho,0
+10:42:19,E30,pagamentos,conversa,-,não sei,numero-fora-do-trecho,9
+10:44:00,E31,entregas,busca,1,ok,,1
+10:44:01,E31,entregas,modelo,1.1,ok,,4
+10:44:05,E31,entregas,checagem,1,barrou,numero-fora-do-trecho,0
+10:44:05,E31,entregas,modelo,2.1,ok,,4
+10:44:09,E31,entregas,checagem,2,barrou,numero-fora-do-trecho,0
+10:44:09,E31,entregas,conversa,-,passar,numero-fora-do-trecho + nao-sei-com-pedido,9
+10:46:20,E32,garantia,busca,1,ok,,1
+10:46:21,E32,garantia,modelo,1.1,ok,,4
+10:46:25,E32,garantia,checagem,1,barrou,numero-fora-do-trecho,0
+10:46:25,E32,garantia,modelo,2.1,ok,,4
+10:46:29,E32,garantia,checagem,2,barrou,numero-fora-do-trecho,0
+10:46:29,E32,garantia,conversa,-,não sei,numero-fora-do-trecho,9
+10:48:40,E33,trocas,busca,1,ok,,1
+10:48:41,E33,trocas,modelo,1.1,ok,,4
+10:48:45,E33,trocas,checagem,1,barrou,numero-fora-do-trecho,0
+10:48:45,E33,trocas,modelo,2.1,ok,,4
+10:48:49,E33,trocas,checagem,2,barrou,numero-fora-do-trecho,0
+10:48:49,E33,trocas,conversa,-,não sei,numero-fora-do-trecho,9
+10:51:00,E34,pagamentos,busca,1,ok,,1
+10:51:01,E34,pagamentos,modelo,1.1,ok,,4
+10:51:05,E34,pagamentos,checagem,1,barrou,numero-fora-do-trecho,0
+10:51:05,E34,pagamentos,modelo,2.1,ok,,4
+10:51:09,E34,pagamentos,checagem,2,barrou,numero-fora-do-trecho,0
+10:51:09,E34,pagamentos,conversa,-,não sei,numero-fora-do-trecho,9
+10:53:30,E35,entregas,busca,1,ok,,1
+10:53:31,E35,entregas,modelo,1.1,ok,,4
+10:53:35,E35,entregas,checagem,1,barrou,numero-fora-do-trecho,0
+10:53:35,E35,entregas,modelo,2.1,ok,,4
+10:53:39,E35,entregas,checagem,2,barrou,numero-fora-do-trecho,0
+10:53:39,E35,entregas,conversa,-,não sei,numero-fora-do-trecho,9
+10:56:10,E36,trocas,busca,1,ok,,1
+10:56:11,E36,trocas,modelo,1.1,ok,,4
+10:56:15,E36,trocas,checagem,1,barrou,numero-fora-do-trecho,0
+10:56:15,E36,trocas,modelo,2.1,ok,,4
+10:56:19,E36,trocas,checagem,2,barrou,numero-fora-do-trecho,0
+10:56:19,E36,trocas,conversa,-,não sei,numero-fora-do-trecho,9
+10:58:40,E37,pagamentos,busca,1,ok,,1
+10:58:41,E37,pagamentos,modelo,1.1,ok,,4
+10:58:45,E37,pagamentos,checagem,1,barrou,numero-fora-do-trecho,0
+10:58:45,E37,pagamentos,modelo,2.1,ok,,4
+10:58:49,E37,pagamentos,checagem,2,barrou,numero-fora-do-trecho,0
+10:58:49,E37,pagamentos,conversa,-,não sei,numero-fora-do-trecho,9

@@ -1,0 +1,14 @@
+{
+  "escrita_em": "2026-11-03",
+  "decisao": "comprar ou não o pacote de busca híbrida com reranking",
+  "perfil": "cliente",
+  "data": "2026-11-10",
+  "k": 3,
+  "base": "bm25",
+  "nao_pode_cair": ["termo exato"],
+  "precisa_subir": ["paráfrase", "número"],
+  "etapa_anterior": {"hibrida-reranker": "hibrida"},
+  "p95_max_ms": 800,
+  "custo_mes_max": 300.00,
+  "volume_mes": 12000
+}

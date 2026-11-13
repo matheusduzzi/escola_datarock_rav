@@ -1,0 +1,16 @@
+id,ranking,resposta,certa
+c01,trocas@2#prazo,"Você tem 20 dias corridos, contados da entrega, para trocar um produto sem defeito. Ele precisa voltar na embalagem original, com etiqueta.",sim
+c02,trocas@1#prazo,"Você tem 30 dias corridos, contados da entrega, para trocar um produto sem defeito.",sim
+c03,,Você pode trocar em até 20 dias da entrega.,sim
+c06,entregas@1#frete,"O frete é grátis para compras acima de R$ 199,00, para todo o Brasil.",sim
+c08,pagamentos@1#parcelamento,"Em até 6 vezes sem juros, com parcela mínima de R$ 30,00.",sim
+c09,pagamentos@1#parcelamento,"Sim, em até 6 vezes sem juros no cartão de crédito.",sim
+c10,trocas@1#reembolso,"Não, o máximo é 6 vezes sem juros.",sim
+c11,pagamentos@1#parcelamento,"Sim, dá para parcelar em até 6 vezes sem juros.",nao
+c14,trocas@1#defeito,Mande uma foto pelo atendimento em até 7 dias da entrega. A loja busca a TV sem custo e manda outra igual.,sim
+c17,garantia@1#eletrodomesticos,"Os eletrodomésticos têm 12 meses de garantia do fabricante, além dos 90 dias da garantia legal.",sim
+c18,garantia@1#eletrodomesticos,"Sim, ainda está nos 12 meses de garantia do fabricante. O conserto é feito na assistência técnica autorizada.",sim
+c20,pagamentos@1#boleto-pix,O boleto vence em 3 dias. O pedido é separado assim que o pagamento é confirmado.,nao
+c23,trocas@1#defeito,Não achei essa informação nas políticas da loja. Vou passar você para o atendimento.,sim
+c24,pagamentos@1#duplicidade,Não achei essa informação nas políticas da loja. Vou passar você para o atendimento.,sim
+c26,pagamentos@1#duplicidade,O estorno da cobrança repetida é feito pela equipe financeira.,nao

@@ -1,0 +1,10 @@
+{
+  "escrita_em": "2026-11-06",
+  "decisao": "ligar a skill de prazos no assistente",
+  "base": "sem-skill",
+  "nao_pode_cair": ["prazo", "consulta", "sem resposta"],
+  "p95_max_ms": 8000,
+  "custo_sobe_no_maximo": 0.25,
+  "mistura_mes": {"prazo": 0.3, "consulta": 0.5, "sem resposta": 0.2},
+  "volume_mes": 12000
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "faq@1#frete",
+  "documento": "faq",
+  "secao": "frete",
+  "versao": 1,
+  "titulo": "Frete grátis (perguntas frequentes do site)",
+  "texto": "O frete é grátis para compras acima de R$ 149,00 em todo o Brasil.",
+  "inicio": "2026-11-16",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado",
+  "assunto": "entregas#frete"
+ },
+ {
+  "id": "faq@1#parcelamento",
+  "documento": "faq",
+  "secao": "parcelamento",
+  "versao": 1,
+  "titulo": "Parcelamento (perguntas frequentes do site)",
+  "texto": "Você pode parcelar em até 10 vezes sem juros no cartão de crédito.",
+  "inicio": "2026-11-30",
+  "fim": null,
+  "perfis": [
+   "cliente",
+   "atendimento"
+  ],
+  "status": "aprovado",
+  "assunto": "pagamentos#parcelamento"
+ }
+]

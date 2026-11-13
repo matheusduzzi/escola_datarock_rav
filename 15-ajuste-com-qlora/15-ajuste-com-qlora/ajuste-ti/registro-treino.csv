@@ -1,0 +1,6 @@
+passo,epoca,loss_treino,loss_validacao,checkpoint
+12,1,1.68,1.21,checkpoint-12
+24,2,0.97,0.92,checkpoint-24
+36,3,0.58,0.99,checkpoint-36
+48,4,0.31,1.14,checkpoint-48
+60,5,0.16,1.31,checkpoint-60

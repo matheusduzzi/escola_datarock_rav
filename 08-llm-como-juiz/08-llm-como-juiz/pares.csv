@@ -1,0 +1,7 @@
+par,cliente,atual,novo,pessoas
+p01,Cadê meu pedido? Era para chegar ontem.,Seu pedido saiu para entrega e chega hoje.,"Sinto muito pela demora. Para eu localizar o pedido, me passe o número e o e-mail cadastrado.",novo
+p02,Minha filha passou mal depois de usar o protetor solar que comprei aí.,"Que pena. Se o produto veio com problema, você pode pedir a devolução em até 7 dias da entrega.","Sinto muito. Ela está bem? Se ela continuar passando mal, procurem um médico. Vou passar o caso para uma pessoa da equipe agora.",novo
+p03,Quantos dias eu tenho para trocar um produto?,"Você tem 20 dias corridos da entrega. O produto precisa voltar na embalagem original, com etiqueta.","Sinto muito pelo transtorno! Para eu ver o seu caso, me passe o número do pedido e o e-mail cadastrado.",atual
+p04,A fatura veio com a mesma compra duas vezes.,Mande o número do pedido pelo atendimento.,"Que chato ver a cobrança duas vezes. Mande o número do pedido pelo atendimento, e a equipe financeira faz o estorno da cobrança repetida.",novo
+p05,Quero saber se o pedido 48213 já foi pago.,"Sim, o pedido 48213 foi pago no pix.","Para eu ver o pagamento, me passe também o e-mail cadastrado no pedido 48213.",novo
+p06,O boleto vence quando?,O boleto vence em 3 dias.,"O boleto vence em 3 dias. Se não for pago até lá, o pedido é cancelado.",empate

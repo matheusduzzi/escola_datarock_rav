@@ -1,0 +1,9 @@
+id,grupo,pergunta,perfil,data,tipo,esperados,resposta,motivo
+r1,prazo,Qual o prazo para troca de produto sem defeito?,cliente,2026-11-10,termo exato,trocas@1#prazo,30 dias da entrega,
+r2,prazo-novo,O prazo de troca vai para 40 dias?,cliente,2026-11-10,número,trocas@3#prazo,40 dias,
+r3,excecao,Dá para a supervisão abrir uma exceção e trocar depois do prazo?,cliente,2026-11-10,termo exato,excecoes@1#troca-fora-do-prazo,até 60 dias,
+r4,vale,Vocês aceitam vale-presente?,cliente,2026-11-10,sem resposta,pagamentos@1#parcelamento,,fora das políticas
+r5,parcelas,Em quantas vezes sem juros posso parcelar no cartão?,cliente,2026-11-10,termo exato,pagamentos@1#parcelamento,até 10 vezes sem juros,
+r6,extravio-a,"Meu pacote sumiu, o que acontece?",cliente,2026-11-10,paráfrase,entregas@1#extravio,novo envio ou reembolso,
+r7,extravio-b,Meu pacote sumiu! O que acontece?,cliente,2026-11-10,paráfrase,entregas@1#extravio,novo envio ou reembolso,
+r8,frete,Acima de qual valor o frete é grátis?,cliente,2026-11-10,termo exato,entregas@1#frete,"R$ 199,00",

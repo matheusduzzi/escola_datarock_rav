@@ -1,0 +1,24 @@
+id,afirmacao,apoio
+c01,o prazo de troca de produto sem defeito é de 20 dias corridos da entrega,trocas@2#prazo
+c01,"o produto volta na embalagem original, com etiqueta",trocas@2#prazo
+c02,o prazo de troca de produto sem defeito é de 30 dias corridos da entrega,trocas@1#prazo
+c03,o prazo de troca é de até 20 dias da entrega,nenhum
+c06,"o frete é grátis acima de R$ 199,00",entregas@1#frete
+c06,o frete grátis vale para todo o Brasil,nenhum
+c08,o cartão parcela em até 6 vezes sem juros,pagamentos@1#parcelamento
+c08,"a parcela mínima é de R$ 30,00",pagamentos@1#parcelamento
+c09,o cartão de crédito parcela em até 6 vezes sem juros,pagamentos@1#parcelamento
+c10,o parcelamento vai até 6 vezes sem juros,pagamentos@1#parcelamento
+c11,a compra de R$ 100 pode ser feita em 6 vezes,nenhum
+c11,o parcelamento vai até 6 vezes sem juros,pagamentos@1#parcelamento
+c14,a foto vai pelo atendimento em até 7 dias da entrega,trocas@1#defeito
+c14,a loja busca o produto sem custo e manda outro igual,trocas@1#defeito
+c17,a garantia do fabricante é de 12 meses,garantia@1#eletrodomesticos
+c17,ela vem além dos 90 dias da garantia legal,garantia@1#eletrodomesticos
+c18,a garantia do fabricante é de 12 meses,garantia@1#eletrodomesticos
+c18,o conserto é feito na assistência técnica autorizada,garantia@1#eletrodomesticos
+c20,"o pedido é separado depois da compensação, em até 2 dias úteis",entregas@1#prazo
+c20,o boleto vence em 3 dias,pagamentos@1#boleto-pix
+c23,o pedido pode ser retirado na loja física,nenhum
+c24,Não achei essa informação nas políticas da loja. Vou passar você para o atendimento.,recusa
+c26,o estorno da cobrança repetida é feito pela equipe financeira,pagamentos@1#duplicidade

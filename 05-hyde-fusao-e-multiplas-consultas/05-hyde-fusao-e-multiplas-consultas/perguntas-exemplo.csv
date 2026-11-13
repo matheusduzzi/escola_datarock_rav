@@ -1,0 +1,7 @@
+id,tipo,pergunta,esperado
+E1,termo exato,O boleto vence em quantos dias?,pagamentos@1#boleto-pix
+E2,termo exato,Qual o prazo da garantia estendida?,garantia@1#estendida
+P1,paráfrase,"Meu pacote sumiu, o que acontece?",entregas@1#extravio
+N1,número,Dá para parcelar em 10 vezes?,pagamentos@1#parcelamento
+N2,número,Quantos dias eu tenho para trocar?,trocas@2#prazo
+S1,sem resposta,Vocês aceitam vale-presente?,

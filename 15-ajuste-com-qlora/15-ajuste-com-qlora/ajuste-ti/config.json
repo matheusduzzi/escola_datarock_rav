@@ -1,0 +1,39 @@
+{
+  "quem_treinou": "TI da Loja Exemplo, na placa de 24 GB",
+  "modelo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "licenca_do_modelo": "Apache 2.0",
+  "quantizacao": {
+    "load_in_4bit": true,
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "bnb_4bit_compute_dtype": "bfloat16"
+  },
+  "lora": {
+    "r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.05,
+    "target_modules": "all-linear"
+  },
+  "treino": "separado/treino.jsonl (46 exemplos)",
+  "validacao": "separado/validacao.jsonl (7 exemplos)",
+  "prompt": "curto",
+  "epocas": 5,
+  "exemplos_por_passo": 4,
+  "taxa_de_aprendizado": 0.0001,
+  "avaliar_e_salvar": "a cada época",
+  "checkpoints": [
+    "checkpoint-12",
+    "checkpoint-24",
+    "checkpoint-36",
+    "checkpoint-48",
+    "checkpoint-60"
+  ],
+  "arquivos_de_cada_checkpoint": [
+    "adapter_config.json",
+    "adapter_model.safetensors"
+  ],
+  "respostas_na_avaliacao": {
+    "respostas/qlora-passo-24.jsonl": "checkpoint-24",
+    "respostas/qlora-passo-60.jsonl": "checkpoint-60"
+  }
+}

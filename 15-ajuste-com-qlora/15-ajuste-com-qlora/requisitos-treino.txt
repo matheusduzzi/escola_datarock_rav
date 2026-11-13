@@ -1,0 +1,10 @@
+# Só para o caminho com placa de vídeo (treinar_qlora.py e responder.py).
+# Python 3.11 ou mais novo e placa NVIDIA com CUDA.
+# Instale antes o torch com CUDA pelo comando que a página pytorch.org mostra para a sua placa.
+# Versões publicadas no PyPI em 13/11/2026.
+transformers==5.22.2
+peft==0.21.3
+trl==1.17.1
+bitsandbytes==0.50.2
+datasets
+accelerate

@@ -1,0 +1,13 @@
+id,tipo,pergunta
+T1,prazo,Recebi em 28/10/2026. Até que dia posso pedir a troca?
+T2,prazo,Recebi em 05/11/2026 e me arrependi. Até que dia posso desistir da compra?
+T3,prazo,O produto chegou quebrado em 08/11/2026. Até que dia mando a foto?
+T4,prazo,Recebi em 15/10/2026. Hoje é 10/11/2026. Ainda posso trocar?
+T5,consulta,O pix é confirmado na hora?
+T6,consulta,Em até quantas vezes sem juros posso parcelar?
+T7,consulta,O frete é grátis acima de quanto?
+T8,consulta,Quem decide o novo envio de um pedido extraviado?
+T9,sem resposta,Vocês aceitam vale-presente?
+T10,sem resposta,Qual o prazo para trocar um presente sem nota fiscal?
+T11,sem resposta,Vocês entregam em Portugal?
+T12,sem resposta,Tem desconto para aniversariante?

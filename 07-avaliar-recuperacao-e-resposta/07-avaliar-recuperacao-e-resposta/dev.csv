@@ -1,0 +1,16 @@
+id,grupo,pergunta,perfil,data,tipo,esperados,resposta,motivo
+c01,prazo-troca,Quantos dias eu tenho para trocar um produto?,cliente,2026-11-10,data,trocas@2#prazo,20 dias da entrega,
+c02,prazo-troca,Quantos dias eu tenho para trocar um produto?,cliente,2026-09-20,data,trocas@1#prazo,30 dias da entrega,
+c03,prazo-troca,"não gostei da cor da blusa, até quando posso trocar?",cliente,2026-11-10,paráfrase,trocas@2#prazo,20 dias da entrega,
+c06,frete-valor,Acima de qual valor o frete é grátis?,cliente,2026-11-10,termo exato,entregas@1#frete,"acima de R$ 199,00 nas capitais e regiões metropolitanas",
+c08,parcelas,Em quantas vezes sem juros posso parcelar no cartão?,cliente,2026-11-10,termo exato,pagamentos@1#parcelamento,até 6 vezes sem juros,
+c09,parcelas,dá pra dividir no cartão?,cliente,2026-11-10,paráfrase,pagamentos@1#parcelamento,até 6 vezes sem juros,
+c10,parcelas-10,Dá para parcelar em 10 vezes?,cliente,2026-11-10,número,pagamentos@1#parcelamento,não: o máximo é 6 vezes sem juros,
+c11,parcela-minima,Uma compra de R$ 100 dá para fazer em 6 vezes?,cliente,2026-11-10,número,pagamentos@1#parcelamento,"não: a parcela mínima é R$ 30,00",
+c14,tela-rachada,"A TV chegou com a tela rachada, o que eu faço?",cliente,2026-11-10,paráfrase,trocas@1#defeito,mande uma foto pelo atendimento em até 7 dias da entrega,
+c17,garantia-eletro,Qual a garantia dos eletrodomésticos?,cliente,2026-11-10,termo exato,garantia@1#eletrodomesticos,12 meses do fabricante além dos 90 dias da garantia legal,
+c18,geladeira-8-meses,"minha geladeira parou com 8 meses, tem conserto?",cliente,2026-11-10,paráfrase,garantia@1#eletrodomesticos,sim: está nos 12 meses do fabricante,
+c20,boleto-separacao,"Paguei no boleto, quando o pedido é separado e quando o boleto vence?",cliente,2026-11-10,duas partes,entregas@1#prazo|pagamentos@1#boleto-pix,separado depois da compensação em até 2 dias úteis; vence em 3 dias,
+c23,retirada-loja,Posso retirar o pedido na loja física?,cliente,2026-11-10,sem resposta,,,fora das políticas
+c24,desconto-aniversario,Tem desconto para quem compra no mês do aniversário?,cliente,2026-11-10,sem resposta,,,fora das políticas
+c26,estorno-duas-pessoas,Qual valor de estorno precisa da aprovação de duas pessoas?,cliente,2026-11-10,sem resposta,,,outro perfil

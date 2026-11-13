@@ -1,0 +1,13 @@
+id,tipo,pergunta,esperado
+d1,desenvolvedor,Qual o prazo para troca de produto sem defeito?,trocas@2#prazo
+d2,desenvolvedor,Acima de qual valor o frete é grátis?,entregas@1#frete
+d3,desenvolvedor,Em quantas vezes sem juros posso parcelar no cartão de crédito?,pagamentos@1#parcelamento
+d4,desenvolvedor,O que acontece com um pedido extraviado?,entregas@1#extravio
+d5,desenvolvedor,Como peço o estorno de uma cobrança em duplicidade?,pagamentos@1#duplicidade
+d6,desenvolvedor,Qual a garantia de eletrodomésticos?,garantia@1#eletrodomesticos
+h1,chat,"não gostei da cor da blusa, até quando posso trocar?",trocas@2#prazo
+h2,chat,a partir de quanto eu não pago a entrega?,entregas@1#frete
+h3,chat,dá pra dividir no cartão?,pagamentos@1#parcelamento
+h4,chat,meu pacote não chegou e a transportadora disse que perdeu,entregas@1#extravio
+h5,chat,apareceu duas vezes a mesma compra na minha fatura,pagamentos@1#duplicidade
+h6,chat,"minha geladeira parou com 8 meses, tem conserto?",garantia@1#eletrodomesticos

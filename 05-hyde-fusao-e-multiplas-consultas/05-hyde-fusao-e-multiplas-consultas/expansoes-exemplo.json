@@ -1,0 +1,57 @@
+{
+  "aviso": "Reescritas e textos de resposta escritos à mão, do jeito que um modelo de linguagem costuma escrever quando recebe os pedidos da aula. Nenhum modelo rodou para gerar este arquivo. Os textos de resposta inventam detalhes de propósito: é isso que acontece com o texto que o modelo gera sem ler as políticas.",
+  "pedidos": {
+    "reescritas": "Escreva 3 versões diferentes da pergunta do cliente para buscar nas políticas da loja. Uma por linha.",
+    "hipotetico": "Escreva um parágrafo curto que responda à pergunta do cliente, como se fosse a política da loja."
+  },
+  "expansoes": {
+    "O boleto vence em quantos dias?": {
+      "reescritas": [
+        "Qual é o prazo de pagamento do boleto?",
+        "Quanto tempo eu tenho para pagar o boleto bancário?",
+        "O que acontece se eu não pagar o boleto até o vencimento?"
+      ],
+      "hipotetico": "O boleto bancário vence em 3 dias úteis após a finalização do pedido. Depois do vencimento, o pedido é cancelado automaticamente e você pode fazer uma nova compra."
+    },
+    "Qual o prazo da garantia estendida?": {
+      "reescritas": [
+        "Por quanto tempo vale a garantia estendida?",
+        "Quantos meses a garantia estendida acrescenta?",
+        "Como contratar a garantia estendida de um produto?"
+      ],
+      "hipotetico": "A garantia estendida amplia a cobertura depois que termina a garantia do fabricante, que é de 12 meses para eletrodomésticos. Durante esse período, o conserto é feito na assistência técnica autorizada."
+    },
+    "Meu pacote sumiu, o que acontece?": {
+      "reescritas": [
+        "O que acontece se o pedido for extraviado pela transportadora?",
+        "Meu pedido não chegou, o que devo fazer?",
+        "A loja reembolsa um pedido perdido na entrega?"
+      ],
+      "hipotetico": "Se o seu pedido foi extraviado, entre em contato com o atendimento. A loja abre uma ocorrência com a transportadora e oferece o reenvio do produto ou o reembolso do valor pago."
+    },
+    "Dá para parcelar em 10 vezes?": {
+      "reescritas": [
+        "Em quantas vezes posso parcelar a compra no cartão?",
+        "A loja parcela em 10 vezes sem juros?",
+        "Qual o número máximo de parcelas no cartão de crédito?"
+      ],
+      "hipotetico": "Sim, as compras no cartão de crédito podem ser parceladas em até 10 vezes sem juros, com parcela mínima de R$ 50,00."
+    },
+    "Quantos dias eu tenho para trocar?": {
+      "reescritas": [
+        "Qual é o prazo para pedir a troca de um produto?",
+        "Até quantos dias depois da entrega posso trocar?",
+        "Posso devolver o produto e receber o dinheiro de volta?"
+      ],
+      "hipotetico": "Você pode trocar ou devolver o produto em até 7 dias após o recebimento, conforme o Código de Defesa do Consumidor. Basta pedir a devolução pelo site e aguardar a coleta."
+    },
+    "Vocês aceitam vale-presente?": {
+      "reescritas": [
+        "Posso pagar a compra com vale-presente?",
+        "Quais formas de pagamento a loja aceita?",
+        "Vocês têm cartão-presente?"
+      ],
+      "hipotetico": "Sim, aceitamos vale-presente como forma de pagamento. O saldo pode ser usado junto com cartão de crédito ou pix, e o vale tem validade de 12 meses."
+    }
+  }
+}

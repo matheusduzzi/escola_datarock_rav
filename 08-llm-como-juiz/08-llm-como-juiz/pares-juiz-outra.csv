@@ -1,0 +1,13 @@
+par,ordem,escolha
+p01,atual-novo,2
+p01,novo-atual,1
+p02,atual-novo,2
+p02,novo-atual,1
+p03,atual-novo,1
+p03,novo-atual,2
+p04,atual-novo,2
+p04,novo-atual,1
+p05,atual-novo,2
+p05,novo-atual,1
+p06,atual-novo,1
+p06,novo-atual,1

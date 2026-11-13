@@ -1,0 +1,13 @@
+id,resposta,frase
+C01,apoiada,"""vence em 3 dias"" e ""o pedido é cancelado"" estão em pagamentos@1#boleto-pix"
+C02,contradiz,"""7 dias"" para trocar; trocas@2#prazo diz 20 dias. O 7 é do reembolso"
+C03,acrescenta,"""aceitamos vale-presente"": nenhum trecho fala de vale-presente"
+C04,apoiada,tudo está em entregas@1#extravio
+C05,acrescenta,"""o pix é confirmado na hora"": nenhum dos três trechos fala de pix"
+C06,nao-sei,diz que os trechos não trazem o prazo de troca e passa para o atendimento
+C07,nao-sei,diz que não achou regra de aniversário
+C08,nao-sei,diz que não achou; pagamentos@1#duplicidade estava em 1º
+C09,apoiada,as duas frases estão em entregas@1#frete; nenhuma fala de Portugal
+C10,acrescenta,"""etiqueta de devolução por e-mail"": nenhum trecho fala disso"
+C11,apoiada,"""30 dias"" está em trocas@1#prazo, que venceu em 1º/10"
+C12,apoiada,a frase está em entregas@1#prazo; nenhuma fala de extravio

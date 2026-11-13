@@ -1,0 +1,9 @@
+{
+  "aviso": "Preços inventados para o curso, em reais. Preço real muda: leia na página do provedor e anote a data.",
+  "embedding_por_milhao_tokens": 0.60,
+  "reranker_por_mil_pares": 2.00,
+  "modelos": {
+    "grande": {"entrada_por_milhao": 15.00, "saida_por_milhao": 75.00},
+    "pequeno": {"entrada_por_milhao": 1.50, "saida_por_milhao": 7.50}
+  }
+}

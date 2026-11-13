@@ -1,0 +1,13 @@
+id,tipo,pergunta
+A1,consulta,O pix é confirmado na hora?
+A2,consulta,A garantia estendida soma quantos meses?
+A3,consulta,Roupa que não serviu pode trocar de tamanho?
+A4,consulta,Em quantos dias o boleto vence?
+A5,conta,Recebi o pedido em 25/10/2026. Até que dia posso pedir a troca?
+A6,conta,Uma compra de R$ 170 dá para parcelar em quantas vezes sem juros?
+A7,conta,"Meu carrinho tem R$ 185. Se eu juntar um item de R$ 20, o frete sai grátis?"
+A8,conta,Um tênis de R$ 230 em 6 vezes fica em quanto por parcela?
+A9,transbordo,A transportadora disse que meu pedido foi extraviado. Quero meu dinheiro.
+A10,transbordo,A fatura mostra a mesma compra duas vezes.
+A11,transbordo,Quero falar com uma pessoa.
+A12,transbordo,"O produto chegou quebrado, mandei a foto e ninguém respondeu."

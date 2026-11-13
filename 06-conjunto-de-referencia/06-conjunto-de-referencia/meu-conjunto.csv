@@ -1,0 +1,39 @@
+id,grupo,pergunta,perfil,data,tipo,esperados,resposta,motivo
+c01,prazo-troca,Quantos dias eu tenho para trocar um produto?,cliente,2026-11-10,data,trocas@2#prazo,20 dias da entrega,
+c02,prazo-troca,Quantos dias eu tenho para trocar um produto?,cliente,2026-09-20,data,trocas@1#prazo,30 dias da entrega,
+c03,prazo-troca,"não gostei da cor da blusa, até quando posso trocar?",cliente,2026-11-10,paráfrase,trocas@2#prazo,20 dias da entrega,
+c04,troca-recebida-setembro,Recebi o pedido em 10 de setembro. Ainda dá para trocar hoje?,cliente,2026-10-05,data,trocas@2#prazo,não: o prazo é de 20 dias da entrega,
+c05,excecao-supervisao,Posso aceitar uma troca com 45 dias da entrega?,supervisao,2026-11-10,número,excecoes@1#troca-fora-do-prazo,"sim, caso a caso, até 60 dias",
+c06,frete-valor,Acima de qual valor o frete é grátis?,cliente,2026-11-10,termo exato,entregas@1#frete,"acima de R$ 199,00 nas capitais e regiões metropolitanas",
+c07,frete-compra-150,"comprei 150 reais, pago a entrega?",cliente,2026-11-10,número,entregas@1#frete,"sim: o frete é grátis só acima de R$ 199,00",
+c08,parcelas,Em quantas vezes sem juros posso parcelar no cartão?,cliente,2026-11-10,termo exato,pagamentos@1#parcelamento,até 6 vezes sem juros,
+c09,parcelas,dá pra dividir no cartão?,cliente,2026-11-10,paráfrase,pagamentos@1#parcelamento,até 6 vezes sem juros,
+c10,parcelas-10,Dá para parcelar em 10 vezes?,cliente,2026-11-10,número,pagamentos@1#parcelamento,não: o máximo é 6 vezes sem juros,
+c11,parcela-minima,Uma compra de R$ 100 dá para fazer em 6 vezes?,cliente,2026-11-10,número,pagamentos@1#parcelamento,"não: a parcela mínima é R$ 30,00",
+c12,extravio,O que acontece com um pedido extraviado?,cliente,2026-11-10,termo exato,entregas@1#extravio,a equipe abre a ocorrência e oferece novo envio ou reembolso,
+c13,extravio,"Meu pacote sumiu, o que acontece?",cliente,2026-11-10,paráfrase,entregas@1#extravio,a equipe abre a ocorrência e oferece novo envio ou reembolso,
+c14,tela-rachada,"A TV chegou com a tela rachada, o que eu faço?",cliente,2026-11-10,paráfrase,trocas@1#defeito,mande uma foto pelo atendimento em até 7 dias da entrega,
+c15,cobranca-dupla,Cobraram duas vezes no cartão,cliente,2026-11-10,paráfrase,pagamentos@1#duplicidade,mande o número do pedido pelo atendimento,
+c16,boleto-vencimento,O boleto vence em quantos dias?,cliente,2026-11-10,termo exato,pagamentos@1#boleto-pix,3 dias,
+c17,garantia-eletro,Qual a garantia dos eletrodomésticos?,cliente,2026-11-10,termo exato,garantia@1#eletrodomesticos,12 meses do fabricante além dos 90 dias da garantia legal,
+c18,geladeira-8-meses,"minha geladeira parou com 8 meses, tem conserto?",cliente,2026-11-10,paráfrase,garantia@1#eletrodomesticos,sim: está nos 12 meses do fabricante,
+c19,tamanho-15-dias,Recebi uma calça há 15 dias e não serviu. Posso trocar o tamanho sem pagar frete?,cliente,2026-11-10,duas partes,trocas@1#tamanho|trocas@2#prazo,"sim: uma troca de tamanho sem frete, dentro dos 20 dias",
+c20,boleto-separacao,"Paguei no boleto, quando o pedido é separado e quando o boleto vence?",cliente,2026-11-10,duas partes,entregas@1#prazo|pagamentos@1#boleto-pix,separado depois da compensação em até 2 dias úteis; vence em 3 dias,
+c21,vale-presente,Vocês aceitam vale-presente?,cliente,2026-11-10,sem resposta,,,fora das políticas
+c22,entrega-mesmo-dia,Vocês entregam no mesmo dia?,cliente,2026-11-10,sem resposta,,,fora das políticas
+c23,retirada-loja,Posso retirar o pedido na loja física?,cliente,2026-11-10,sem resposta,,,fora das políticas
+c24,desconto-aniversario,Tem desconto para quem compra no mês do aniversário?,cliente,2026-11-10,sem resposta,,,fora das políticas
+c25,excecao-cliente,Dá para a supervisão abrir uma exceção e trocar depois do prazo?,cliente,2026-11-10,sem resposta,,,outro perfil
+c26,estorno-duas-pessoas,Qual valor de estorno precisa da aprovação de duas pessoas?,cliente,2026-11-10,sem resposta,,,outro perfil
+s01,,Quanto tempo leva para o reembolso cair no cartão?,cliente,2026-11-10,,,,
+s02,,"Paguei com pix, quando confirma?",cliente,2026-11-10,,,,
+s03,,Posso parcelar uma compra de R$ 150 em 6 vezes?,cliente,2026-11-10,,,,
+s04,,A garantia estendida é de quantos meses?,cliente,2026-11-10,,,,
+s05,,O carregador do celular veio quebrado,cliente,2026-11-10,,,,
+s06,,Recebi a encomenda em 25 de setembro. Ainda posso trocar?,cliente,2026-10-12,,,,
+s07,,Recebi a encomenda em 25 de setembro. Ainda posso trocar?,cliente,2026-09-29,,,,
+s08,,Vocês aceitam vale-presente da loja?,cliente,2026-11-10,,,,
+s09,,Quem aprova estorno manual acima de R$ 500?,financeiro,2026-11-10,,,,
+s10,,Meu estorno de R$ 800 precisa de aprovação?,cliente,2026-11-10,,,,
+s11,,Comprei R$ 120 no boleto: pago frete e em quantos dias o boleto vence?,cliente,2026-11-10,,,,
+s12,,Vocês fazem embrulho para presente?,cliente,2026-11-10,,,,

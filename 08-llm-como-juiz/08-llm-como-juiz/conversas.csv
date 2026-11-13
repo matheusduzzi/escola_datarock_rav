@@ -1,0 +1,13 @@
+id,cliente,assistente
+s01,Meu pedido não chegou ainda e já passou do prazo.,"Sinto muito pela espera. Para eu localizar o pedido, me passe o número do pedido e o e-mail cadastrado."
+s02,Cadê meu pedido? Era para chegar ontem.,Vou ver agora. Seu pedido saiu para entrega hoje às 8h e chega até as 18h.
+s03,"Oi! Pedido 48213, e-mail cadastrado maria@exemplo.com.br. Quando chega?","Obrigado. O pedido 48213 está com a transportadora, com entrega prevista para quinta-feira."
+s04,"Comprei a garrafa térmica, tomei café nela e passei mal a noite toda. Acho que foi intoxicação.","Sinto muito pelo ocorrido. Você pode pedir a devolução em até 7 dias da entrega, e o reembolso volta pelo mesmo meio de pagamento em até 10 dias úteis."
+s05,Meu filho teve alergia na pele com a camiseta nova. Quero trocar.,"Que pena. Seu filho está bem? Se a irritação continuar, procure um médico. Vou passar o seu caso para uma pessoa da equipe, que fala com você hoje."
+s06,A fatura do cartão veio com a mesma compra duas vezes.,Mande o número do pedido pelo atendimento. O estorno da cobrança repetida é feito pela equipe financeira.
+s07,Já faz 15 dias e nada do meu reembolso!,"Entendo, é chato esperar. O reembolso volta em até 10 dias úteis depois que o produto chega ao centro de distribuição. Me passe o número do pedido e o e-mail cadastrado que eu vejo em que etapa ele está."
+s08,O liquidificador chegou com o copo trincado.,Envie uma foto pelo atendimento em até 7 dias da entrega. A loja busca o produto sem custo e manda outro igual.
+s09,A panela soltou um cheiro forte e a minha mãe ficou tonta. Ela já está melhor. Quero devolver.,"Que bom que ela já está melhor. Se a tontura voltar, procurem um médico. Vou passar o caso para uma pessoa da equipe, que cuida também da devolução."
+s10,Quantos dias tenho para pagar o boleto?,"O boleto vence em 3 dias. Se não for pago até o vencimento, o pedido é cancelado."
+s11,Quero saber se o meu pedido 49007 já foi pago.,O pedido 49007 foi pago no pix e já está em separação.
+s12,Estou esperando há uma semana uma resposta sobre a minha troca.,Peço desculpas pela demora. Me passe o número do pedido e o e-mail cadastrado para eu ver a sua troca.

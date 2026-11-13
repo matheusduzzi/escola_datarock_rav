@@ -1,0 +1,17 @@
+id,tipo,pergunta,esperado
+E1,termo exato,O boleto vence em quantos dias?,pagamentos@1#boleto-pix
+E2,termo exato,Qual o prazo da garantia estendida?,garantia@1#estendida
+E3,termo exato,O frete é grátis acima de quanto?,entregas@1#frete
+E4,termo exato,"O produto chegou com defeito, o que eu faço?",trocas@1#defeito
+P1,paráfrase,"Meu pacote sumiu, o que acontece?",entregas@1#extravio
+P2,paráfrase,Cobraram duas vezes no cartão,pagamentos@1#duplicidade
+P3,paráfrase,"A bota ficou apertada, troco por outra numeração?",trocas@1#tamanho
+P4,paráfrase,"Desisti da compra, quando o dinheiro volta?",trocas@1#reembolso
+N1,número,Dá para parcelar em 10 vezes?,pagamentos@1#parcelamento
+N2,número,Quantos dias eu tenho para trocar?,trocas@2#prazo
+N3,número,"Gastei R$ 120, a entrega sai de graça?",entregas@1#frete
+N4,número,"Minha geladeira tem 8 meses, ainda está na garantia?",garantia@1#eletrodomesticos
+S1,sem resposta,Vocês aceitam vale-presente?,
+S2,sem resposta,Tem desconto para aniversariante?,
+S3,sem resposta,Vocês entregam em Portugal?,
+S4,sem resposta,Posso retirar o pedido na loja física?,

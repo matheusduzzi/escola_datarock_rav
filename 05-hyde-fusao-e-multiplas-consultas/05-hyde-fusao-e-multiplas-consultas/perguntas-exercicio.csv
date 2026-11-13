@@ -1,0 +1,9 @@
+id,tipo,pergunta,esperado
+X1,termo exato,A garantia de eletrodomésticos é de quanto tempo?,garantia@1#eletrodomesticos
+X2,termo exato,Qual o valor mínimo da parcela no cartão?,pagamentos@1#parcelamento
+X3,paráfrase,"A tela da TV chegou rachada, o que eu faço?",trocas@1#defeito
+X4,paráfrase,O entregador perdeu minha encomenda,entregas@1#extravio
+X5,número,"Minha compra deu R$ 230, pago entrega?",entregas@1#frete
+X6,número,"Recebi o pedido faz 15 dias, ainda dá para trocar?",trocas@2#prazo
+X7,sem resposta,Vocês entregam no mesmo dia?,
+X8,sem resposta,Posso retirar o pedido na loja física?,

@@ -1,0 +1,73 @@
+{
+  "aviso": "Reescritas e textos de resposta escritos à mão, do jeito que um modelo de linguagem costuma escrever quando recebe os pedidos da aula. Nenhum modelo rodou para gerar este arquivo. Os textos de resposta inventam detalhes de propósito: é isso que acontece com o texto que o modelo gera sem ler as políticas.",
+  "pedidos": {
+    "reescritas": "Escreva 3 versões diferentes da pergunta do cliente para buscar nas políticas da loja. Uma por linha.",
+    "hipotetico": "Escreva um parágrafo curto que responda à pergunta do cliente, como se fosse a política da loja."
+  },
+  "expansoes": {
+    "A garantia de eletrodomésticos é de quanto tempo?": {
+      "reescritas": [
+        "Quantos meses de garantia tem um eletrodoméstico?",
+        "Qual a garantia do fabricante para eletrodomésticos?",
+        "Posso contratar mais garantia para a geladeira?"
+      ],
+      "hipotetico": "Os eletrodomésticos têm garantia de 12 meses do fabricante. Você também pode contratar a garantia estendida no carrinho para somar mais 12 ou 24 meses de cobertura."
+    },
+    "Qual o valor mínimo da parcela no cartão?": {
+      "reescritas": [
+        "Existe valor mínimo para parcelar no cartão de crédito?",
+        "Qual o menor valor de parcela aceito?",
+        "Posso parcelar compras pequenas?"
+      ],
+      "hipotetico": "A parcela mínima no cartão de crédito é de R$ 50,00. Compras abaixo desse valor são cobradas à vista, e o parcelamento vai até 12 vezes sem juros."
+    },
+    "A tela da TV chegou rachada, o que eu faço?": {
+      "reescritas": [
+        "O produto chegou danificado, como peço a troca?",
+        "Recebi um produto quebrado, o que fazer?",
+        "Como funciona a garantia quando a TV vem com defeito?"
+      ],
+      "hipotetico": "Se o produto chegou danificado, envie uma foto pelo atendimento em até 7 dias. A loja recolhe a TV sem custo e envia outra igual."
+    },
+    "O entregador perdeu minha encomenda": {
+      "reescritas": [
+        "O que acontece quando a transportadora extravia o pedido?",
+        "Minha encomenda não foi entregue, o que fazer?",
+        "Como peço reembolso de um pedido que não chegou?"
+      ],
+      "hipotetico": "Quando a transportadora confirma o extravio, nossa equipe abre uma ocorrência e oferece um novo envio ou o reembolso do valor pago."
+    },
+    "Minha compra deu R$ 230, pago entrega?": {
+      "reescritas": [
+        "Qual o valor mínimo para ter frete grátis?",
+        "A partir de quanto a entrega é gratuita?",
+        "Como é calculado o valor da entrega?"
+      ],
+      "hipotetico": "O frete é grátis para compras acima de R$ 299,00. Abaixo desse valor, o frete é calculado no carrinho a partir do CEP."
+    },
+    "Recebi o pedido faz 15 dias, ainda dá para trocar?": {
+      "reescritas": [
+        "Qual o prazo para trocar um produto depois da entrega?",
+        "Em quantos dias posso pedir a troca?",
+        "Posso devolver um produto depois de duas semanas?"
+      ],
+      "hipotetico": "Sim, você ainda pode trocar. O prazo para troca é de 30 dias corridos contados da entrega, com o produto na embalagem original e com etiqueta."
+    },
+    "Vocês entregam no mesmo dia?": {
+      "reescritas": [
+        "A loja tem entrega expressa no mesmo dia?",
+        "Qual o prazo de entrega mais rápido?",
+        "Em quanto tempo o pedido chega?"
+      ],
+      "hipotetico": "Sim, para pedidos pagos até as 12h nas capitais, a entrega é feita no mesmo dia. O prazo aparece no carrinho depois da confirmação do pagamento."
+    },
+    "Posso retirar o pedido na loja física?": {
+      "reescritas": [
+        "A loja tem retirada no balcão?",
+        "Como faço para buscar meu pedido pessoalmente?",
+        "Existe opção de retirada sem pagar frete?"
+      ],
+      "hipotetico": "Sim, você pode escolher a retirada na loja no carrinho, sem custo de frete. O pedido fica disponível em até 2 dias úteis depois da confirmação do pagamento."
+    }
+  }
+}
